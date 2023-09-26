@@ -1,0 +1,1140 @@
+h20_variable,mean,median,std,min,max,count,Country
+Abstractions for irrigation. Reused water,95.48425,97.115,10.088384521319556,83.4,104.307,4,Australia
+Abstractions for manufacturing. Reused water,22.36375,24.564999999999998,8.175685742318063,7.474,32.0,8,Australia
+Electricity production (cooling). Non-freshwater,5927.76,5927.76,,5927.76,5927.76,1,Australia
+Public water supply,3706.698857142857,3453.454,778.2778783850124,2952.0,5390.0,7,Australia
+Public water supply - non-freshwater,90.44200000000001,121.0,79.28474959074201,0.231,202.822,7,Australia
+"Public water supply for agriculture, forestry and fishing",500.822,591.447,203.25449662922588,179.0,673.973,7,Australia
+Public water supply for electricity,32.69785714285714,31.198,14.884306146951914,14.173,54.0,7,Australia
+Public water supply for households,1692.0484285714285,1683.0,89.23377826035963,1555.0,1801.924,7,Australia
+Public water supply for mining and quarrying,44.99957142857143,40.692,13.268269729661348,34.0,72.0,7,Australia
+Public water supply for total manufacturing,251.53214285714284,237.089,33.15923934304771,211.163,297.0,7,Australia
+Self- and other supply ,12537.243857142856,12693.643,1428.966440833307,10757.0,14746.0,7,Australia
+Self- and other supply - Households,156.6,145.0,25.774017925034503,140.0,201.0,5,Australia
+"Self- and other supply for agriculture, fishing and forestry",9337.367571428571,9319.28,1781.4202550913185,7406.0,12450.0,7,Australia
+Self- and other supply for electricity production and distribution,261.2777142857143,293.0,81.97269814540749,162.819,364.0,7,Australia
+Self- and other supply for mining and quarrying.,1043.1064285714285,1159.575,229.3208424819232,783.0,1291.432,7,Australia
+Self- and other supply for total manufacturing,311.60485714285716,300.289,26.036763997781883,280.0,351.0,7,Australia
+Total abstractions of reused water,359.038,326.7875,71.06793668837489,297.307,506.92,8,Australia
+Total desalinated water. Non-freshwater,213.80349999999999,186.2565,86.20030047318089,147.459,335.242,4,Australia
+Total losses during transport,1943.77,2069.54,350.650430581037,1430.0,2206.0,4,Australia
+Abstractions for irrigation. Reused water,0.0,0.0,0.0,0.0,0.0,4,Austria
+Abstractions for manufacturing. Reused water,0.0,0.0,0.0,0.0,0.0,4,Austria
+Exported water,0.0,0.0,0.0,0.0,0.0,11,Austria
+Imported water,0.0,0.0,0.0,0.0,0.0,11,Austria
+Public water supply,597.625,607.7,33.44282434245054,549.3,625.8,4,Austria
+Public water supply for households,371.31166666666667,351.2,49.63281189562674,337.4,469.0,6,Austria
+Self- and other supply - Households,27.6,27.6,0.0,27.6,27.6,2,Austria
+Total abstractions of reused water,0.0,0.0,0.0,0.0,0.0,4,Austria
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",0.0,0.0,0.0,0.0,0.0,14,Belgium
+"Abstractions for agriculture, forestry, fishing. Reused water",0.0,0.0,,0.0,0.0,1,Belgium
+Abstractions for aquaculture. Non-freshwater,0.0,0.0,0.0,0.0,0.0,14,Belgium
+Abstractions for cooling (manufacturing). Non-freshwater,0.0,0.0,0.0,0.0,0.0,14,Belgium
+Abstractions for electricity production (cooling). Reused water,0.0,0.0,,0.0,0.0,1,Belgium
+Abstractions for hydro-electricity,0.0,0.0,0.0,0.0,0.0,11,Belgium
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,14,Belgium
+Abstractions for manufacturing cooling. Reused water,0.0,0.0,,0.0,0.0,1,Belgium
+Abstractions for manufacturing. Non-freshwater,0.0,0.0,0.0,0.0,0.0,14,Belgium
+Abstractions for services - desalinated water,0.0,0.0,0.0,0.0,0.0,4,Belgium
+Abstractions for services - non-freshwater,0.0,0.0,0.0,0.0,0.0,14,Belgium
+Abstractions for services - reused water,0.0,0.0,,0.0,0.0,1,Belgium
+Abstractions from artificial reservoirs ,151.40883333333332,211.9075,103.72712358764541,0.0,225.521,6,Belgium
+Electricity production (cooling). Non-freshwater,0.0,0.0,0.0,0.0,0.0,14,Belgium
+Evaporation losses,59.0982,60.778999999999996,21.003132839332956,26.513,83.0,10,Belgium
+Exported water,2.533,3.153,1.2997855592365997,0.217,3.21,5,Belgium
+Imported water,38.80788888888889,69.461,36.81738579613049,0.0,70.428,9,Belgium
+Leakage,137.6798,140.909,8.107856749268992,123.0,147.0,10,Belgium
+Public water supply,555.0993846153846,570.9,69.45094246245384,409.6,660.4,13,Belgium
+"Public water supply for agriculture, forestry and fishing",11.567307692307692,10.667,2.360833694009223,9.184,16.0,13,Belgium
+Public water supply for basic metals,2.473,2.186,0.8449181025401218,1.493,4.5,11,Belgium
+"Public water supply for chemicals, refined petroleum etc",62.212818181818186,60.968,7.399764980297438,52.595,72.09,11,Belgium
+Public water supply for construction,0.2,0.2,,0.2,0.2,1,Belgium
+Public water supply for cooling (electricity),0.3177,0.298,0.08681916071160022,0.176,0.457,10,Belgium
+Public water supply for cooling (manufacturing),18.5409,19.918,3.604427599803085,13.976,24.167,10,Belgium
+Public water supply for electricity,1.6627692307692308,1.745,0.6040077474456426,0.81,3.0,13,Belgium
+Public water supply for food processing industry,22.65309090909091,22.718,2.757247593327283,16.9,26.906,11,Belgium
+Public water supply for households,372.4309090909091,366.597,25.00872378772872,332.469,432.4,11,Belgium
+Public water supply for industrial activities,97.9,97.9,,97.9,97.9,1,Belgium
+Public water supply for industry and construction,102.77046153846155,101.6,7.5671524985226375,92.078,112.928,13,Belgium
+Public water supply for mining and quarrying,0.14063636363636364,0.136,0.04150487375543438,0.075,0.204,11,Belgium
+Public water supply for other manufacturing industries,7.4395,7.0545,1.8669196405963597,4.853,10.055,10,Belgium
+Public water supply for paper products,2.3017,2.1470000000000002,0.4675862487285103,1.93,3.309,10,Belgium
+Public water supply for services,94.29381818181818,91.579,10.79630346755946,76.538,114.1,11,Belgium
+Public water supply for textiles,1.7006000000000001,1.541,0.5074043314316066,1.245,3.063,10,Belgium
+Public water supply for total manufacturing,100.22376923076924,101.9,7.891128216271803,90.306,110.025,13,Belgium
+Public water supply transport vehicles and equipment,0.303,0.303,,0.303,0.303,1,Belgium
+Self- and other supply ,5153.4006,5247.246999999999,1158.4987608224517,3531.346,6819.734,10,Belgium
+Self- and other supply - Households,3.4176,3.455,0.1645500261656347,3.085,3.64,10,Belgium
+Self- and other supply - Other manufacturing,38.6833,39.4445,5.300872172472082,30.876,46.778,10,Belgium
+Self- and other supply - Services,239.1601,223.8125,45.29336876519564,197.831,347.269,10,Belgium
+"Self- and other supply for agriculture, fishing and forestry",43.5028,43.198,6.121252736708939,34.903,54.902,10,Belgium
+Self- and other supply for basic metals,157.8422,125.661,124.45215600810886,39.756,366.444,10,Belgium
+"Self- and other supply for chemicals, refined petroleum etc",850.2786,858.309,39.57427934684623,766.326,910.514,10,Belgium
+Self- and other supply for electricity production (cooling),3466.4428,3737.652,903.8513987346719,2144.724,4601.741,10,Belgium
+Self- and other supply for electricity production and distribution,3515.6417,3773.0215,894.1449371331812,2170.081,4637.824,10,Belgium
+Self- and other supply for food processing industry,91.34360000000001,90.701,4.882388764164977,82.403,98.266,10,Belgium
+Self- and other supply for industry and contruction,4769.8312,4999.2235,1040.2015384744543,3210.279,6127.431,10,Belgium
+Self- and other supply for manufacturing (cooling),857.3793,821.6195,120.61634645625588,697.822,1059.546,10,Belgium
+Self- and other supply for mining and quarrying.,34.5028,36.493,7.344167418207913,22.027,43.353,10,Belgium
+Self- and other supply for paper products,47.8829,48.6305,3.0610241731957775,43.685,52.301,10,Belgium
+Self- and other supply for textiles,6.2262,4.6325,3.775558407558925,2.456,12.195,10,Belgium
+Self- and other supply for total manufacturing,1192.2666,1148.9724999999999,155.56796742488845,999.06,1428.364,10,Belgium
+Total gross abstraction non-freshwater,0.0,0.0,0.0,0.0,0.0,14,Belgium
+Total gross abstraction. Desalinated water,0.007714285714285714,0.0,0.02886421412654183,0.0,0.108,14,Belgium
+Total losses during transport,195.0824,190.23399999999998,17.380087809521175,168.858,218.0,10,Belgium
+Total water made available for use,5699.613625,6161.3,1104.5493364636395,4022.294,6969.4,8,Belgium
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,14,Belgium
+Abstractions for manufacturing. Non-freshwater,136.4142857142857,135.9,40.99578956313394,90.6,190.7,7,Canada
+Abstractions for manufacturing. Reused water,2511.6428571428573,2593.2,392.36477440065397,2004.5,3164.1,7,Canada
+Electricity production (cooling). Non-freshwater,2790.933333333333,3008.5,415.61357452967457,2311.7,3052.6,3,Canada
+Public water supply,4497.146833333333,4420.550499999999,389.8760774725306,4066.629,5201.0,6,Canada
+"Public water supply for agriculture, forestry and fishing",0.3722,0.346,0.15046660759118616,0.172,0.585,5,Canada
+Public water supply for basic metals,66.5,66.5,9.192388155425117,60.0,73.0,2,Canada
+"Public water supply for chemicals, refined petroleum etc",66.36666666666666,61.8,14.692288226594705,54.5,82.8,3,Canada
+Public water supply for construction,8.288,8.01,0.9560439320449666,7.35,9.73,5,Canada
+Public water supply for electricity,48.63666666666666,15.905000000000001,77.3012821799656,12.41,206.1,6,Canada
+Public water supply for food processing industry,170.5,170.5,28.991378028648448,150.0,191.0,2,Canada
+Public water supply for households,2913.8081428571427,2957.77,274.25465946964243,2548.347,3252.53,7,Canada
+Public water supply for industrial activities,768.9304999999999,546.3415,569.301805714245,493.68,1928.3,6,Canada
+Public water supply for mining and quarrying,17.142857142857142,15.0,6.793098738881284,7.5,29.6,7,Canada
+Public water supply for other manufacturing industries,215.5,215.5,68.58935777509511,167.0,264.0,2,Canada
+Public water supply for paper products,149.5,149.5,24.748737341529164,132.0,167.0,2,Canada
+Public water supply for services,1404.0983333333334,1015.25,920.5249466346182,926.7,3272.4,6,Canada
+Public water supply for total manufacturing,567.8478749999999,532.8465,131.4368816433386,454.37,855.26,8,Canada
+Public water supply transport vehicles and equipment,21.0,21.0,,21.0,21.0,1,Canada
+Self- and other supply ,34108.25,33176.0,3980.1371312221568,30408.0,39673.0,4,Canada
+Self- and other supply - Other manufacturing,904.0,904.0,32.526911934581186,881.0,927.0,2,Canada
+Self- and other supply - transport vehicles and equipment,4.0,4.0,,4.0,4.0,1,Canada
+"Self- and other supply for agriculture, fishing and forestry",3031.6883333333335,3095.995,908.0434212396821,1828.21,4104.5,6,Canada
+Self- and other supply for basic metals,1316.5,1316.5,273.6503243191939,1123.0,1510.0,2,Canada
+"Self- and other supply for chemicals, refined petroleum etc",665.1666666666666,663.1,11.934962644823585,654.4,678.0,3,Canada
+Self- and other supply for food processing industry,198.5,198.5,45.96194077712559,166.0,231.0,2,Canada
+Self- and other supply for industrial activities,30818.58925,30162.384,2930.2361295592286,28031.589,34918.0,4,Canada
+Self- and other supply for paper products,2113.0,2113.0,452.54833995939043,1793.0,2433.0,2,Canada
+Self- and other supply for total manufacturing,3902.425,3446.8100000000004,917.0018002319142,3179.39,5541.8,8,Canada
+Public water supply,527.3214285714286,521.7,52.85549499955859,476.8,655.9,14,Czech Republic
+"Public water supply for agriculture, forestry and fishing",8.233428571428572,7.6,1.3446926851821641,6.7,10.5,14,Czech Republic
+Public water supply for households,341.29285714285714,338.95000000000005,19.788631712550124,317.6,391.3,14,Czech Republic
+Public water supply for industry and construction,77.78664285714285,43.4,70.86406959330078,37.1,254.1,14,Czech Republic
+Public water supply for services,100.09285714285714,109.55,44.69304651277877,0.0,150.0,14,Czech Republic
+Self- and other supply ,1058.4125,1022.9,191.88317455830114,749.9,1275.1,8,Czech Republic
+Self- and other supply - Construction,0.25,0.2,0.1414213562373095,0.1,0.5,8,Czech Republic
+Self- and other supply - Other manufacturing,16.275,15.2,3.1860185633034663,13.0,22.2,8,Czech Republic
+Self- and other supply - Services,23.2125,22.0,2.560378041283299,20.8,26.9,8,Czech Republic
+Self- and other supply - transport vehicles and equipment,1.0625,0.8,0.7963084470587657,0.5,3.0,8,Czech Republic
+"Self- and other supply for agriculture, fishing and forestry",41.6625,41.45,7.183500439996409,29.8,54.2,8,Czech Republic
+Self- and other supply for basic metals,34.5875,32.25,6.954430756205507,29.0,51.0,8,Czech Republic
+"Self- and other supply for chemicals, refined petroleum etc",109.125,104.15,14.78085151229698,93.1,135.8,8,Czech Republic
+Self- and other supply for electricity production (cooling),501.52500000000003,488.65,149.84209545861458,264.5,682.7,8,Czech Republic
+Self- and other supply for electricity production and distribution,666.225,654.55,157.04862531803875,414.2,872.5,8,Czech Republic
+Self- and other supply for food processing industry,18.5375,18.3,1.2270027360546971,17.0,20.9,8,Czech Republic
+Self- and other supply for industry and contruction,984.5125,954.1,185.77755083124865,687.4,1213.7,8,Czech Republic
+Self- and other supply for manufacturing (cooling),45.975,39.7,15.72311764795483,32.6,75.5,8,Czech Republic
+Self- and other supply for mining and quarrying.,34.825,34.85,4.471097660051088,26.8,42.2,8,Czech Republic
+Self- and other supply for paper products,51.9375,50.6,5.972302140476724,45.9,63.6,8,Czech Republic
+Self- and other supply for textiles,5.15,4.4,1.9856628975878923,3.4,9.8,8,Czech Republic
+Self- and other supply for total manufacturing,236.675,224.64999999999998,29.784787584076746,214.5,303.8,8,Czech Republic
+Total losses during transport,112.1875,110.5,23.234730008576143,86.0,150.0,8,Czech Republic
+Electricity production (cooling). Non-freshwater,4623.0,4623.0,,4623.0,4623.0,1,Denmark
+Public water supply,399.0006666666667,385.6,51.556417151735886,345.42,512.5,15,Denmark
+"Public water supply for agriculture, forestry and fishing",44.45125,43.775000000000006,4.112223720637222,39.4,51.0,8,Denmark
+Public water supply for basic metals,0.155,0.15500000000000003,0.04230839160261234,0.1,0.21,6,Denmark
+"Public water supply for chemicals, refined petroleum etc",12.511666666666665,12.93,1.1146195165466402,10.49,13.5,6,Denmark
+Public water supply for construction,0.6016666666666667,0.585,0.11143009766964518,0.46,0.78,6,Denmark
+Public water supply for electricity,2.505,2.015,1.0038781940910102,1.8,4.2,8,Denmark
+Public water supply for food processing industry,18.278333333333332,17.939999999999998,1.6193753939919757,16.73,21.21,6,Denmark
+Public water supply for households,240.99749999999997,235.70999999999998,23.740184622472714,211.55,309.9,12,Denmark
+Public water supply for industrial activities,38.924,38.38,2.509766921449082,36.31,42.69,5,Denmark
+Public water supply for industry and construction,52.11375,43.745000000000005,23.495537532233037,41.53,110.0,8,Denmark
+Public water supply for mining and quarrying,0.085,0.08,0.02345207879911714,0.05,0.12,6,Denmark
+Public water supply for other manufacturing industries,3.9883333333333333,3.975,0.29088944062421146,3.55,4.32,6,Denmark
+Public water supply for paper products,0.5533333333333333,0.515,0.23329523498491492,0.31,0.83,6,Denmark
+Public water supply for services,41.696363636363635,41.83,4.96580561989145,34.04,50.0,11,Denmark
+Public water supply for textiles,0.235,0.21,0.06892024376045111,0.18,0.37,6,Denmark
+Public water supply for total manufacturing,35.845,34.805,2.3500531908873903,33.44,39.85,6,Denmark
+Public water supply transport vehicles and equipment,0.12333333333333334,0.125,0.022509257354845512,0.1,0.16,6,Denmark
+Self- and other supply ,559.7433333333333,555.52,34.33045217684534,508.5,614.65,6,Denmark
+Self- and other supply - Construction,0.0,0.0,0.0,0.0,0.0,6,Denmark
+Self- and other supply - Households,0.0,0.0,0.0,0.0,0.0,6,Denmark
+Self- and other supply - Other manufacturing,6.045000000000001,5.880000000000001,0.6294044804416318,5.38,6.97,6,Denmark
+Self- and other supply - Services,6.451666666666667,5.9,1.55947961405934,4.81,8.48,6,Denmark
+Self- and other supply - transport vehicles and equipment,0.0,0.0,0.0,0.0,0.0,6,Denmark
+"Self- and other supply for agriculture, fishing and forestry",520.5600000000001,516.87,33.52946763669235,475.19,577.67,6,Denmark
+Self- and other supply for basic metals,0.8983333333333333,0.925,0.5307887213069497,0.0,1.57,6,Denmark
+"Self- and other supply for chemicals, refined petroleum etc",2.085,2.26,0.6834544608092044,0.82,2.74,6,Denmark
+Self- and other supply for electricity production and distribution,0.9883333333333333,1.005,0.19051684090039567,0.75,1.28,6,Denmark
+Self- and other supply for food processing industry,13.049999999999999,12.555,1.7064583206161237,10.79,15.64,6,Denmark
+Self- and other supply for industrial activities,32.589999999999996,32.07,3.367603005106152,28.5,37.66,5,Denmark
+Self- and other supply for industry and contruction,68.06,67.555,5.111254249203419,60.44,75.64,6,Denmark
+Self- and other supply for mining and quarrying.,8.838333333333333,8.48,1.2882766266088457,7.37,11.15,6,Denmark
+Self- and other supply for paper products,0.8150000000000001,0.5800000000000001,0.9498157716104741,0.11,2.7,6,Denmark
+Self- and other supply for textiles,0.021666666666666667,0.02,0.004082482904638631,0.02,0.03,6,Denmark
+Self- and other supply for total manufacturing,22.915000000000003,22.36,2.237165617472251,20.39,26.78,6,Denmark
+Total gross abstraction non-freshwater,4623.0,4623.0,,4623.0,4623.0,1,Denmark
+Abstractions for cooling (manufacturing). Non-freshwater,1449.25,1436.0,323.17526204831955,1170.0,1755.0,4,Finland
+Abstractions for irrigation. Reused water,0.0,0.0,,0.0,0.0,1,Finland
+Abstractions for manufacturing. Non-freshwater,1449.25,1436.0,323.17526204831955,1170.0,1755.0,4,Finland
+Abstractions for manufacturing. Reused water,0.0,0.0,,0.0,0.0,1,Finland
+Electricity production (cooling). Non-freshwater,4470.25,4220.0,645.913500400789,4013.0,5428.0,4,Finland
+Exported water,0.0,0.0,,0.0,0.0,1,Finland
+Imported water,0.0,0.0,,0.0,0.0,1,Finland
+Leakage,60.0,60.0,,60.0,60.0,1,Finland
+Public water supply,412.75,414.0,6.5000000000000036,404.0,419.0,4,Finland
+Public water supply for basic metals,1.6,1.6,0.1414213562373094,1.5,1.7,2,Finland
+"Public water supply for chemicals, refined petroleum etc",2.842,2.8,0.42061859207600427,2.34,3.5,5,Finland
+Public water supply for food processing industry,8.8156,8.888,0.5596041458030847,8.0,9.49,5,Finland
+Public water supply for households,412.75,414.0,6.5000000000000036,404.0,419.0,4,Finland
+Public water supply for mining and quarrying,0.1588,0.14,0.14767261086606412,0.0,0.4,5,Finland
+Public water supply for paper products,0.5362,0.521,0.04326892649465667,0.5,0.6,5,Finland
+Public water supply for textiles,0.2162,0.3,0.13071801712082387,0.05,0.331,5,Finland
+Self- and other supply - Other manufacturing,82.9,82.9,42.42640687119286,52.9,112.9,2,Finland
+Self- and other supply for basic metals,242.343,244.7,8.15766480066447,229.615,251.3,5,Finland
+"Self- and other supply for chemicals, refined petroleum etc",1128.2013333333334,1078.1190000000001,144.5051600001421,1027.0,1410.97,6,Finland
+Self- and other supply for electricity production (cooling),0.2,0.2,,0.2,0.2,1,Finland
+Self- and other supply for electricity production and distribution,3.5,3.5,,3.5,3.5,1,Finland
+Self- and other supply for food processing industry,22.0235,21.142,3.770633673535523,19.157,29.4,6,Finland
+Self- and other supply for mining and quarrying.,9.203999999999999,8.02,4.064859161151835,5.3,14.4,5,Finland
+Self- and other supply for paper products,981.398,965.5999999999999,106.80556101626918,846.2,1150.588,6,Finland
+Self- and other supply for textiles,0.81,0.9,0.36523964735499354,0.1,1.1,6,Finland
+Total abstractions of reused water,0.0,0.0,,0.0,0.0,1,Finland
+Total desalinated water. Non-freshwater,0.0,0.0,,0.0,0.0,1,Finland
+Total gross abstraction. Desalinated water,0.0,0.0,,0.0,0.0,1,Finland
+Total non-renewable groundwater,0.0,0.0,,0.0,0.0,1,Finland
+Water abstraction for public water supply. Desalinated water,0.0,0.0,,0.0,0.0,1,Finland
+Abstractions for hydro-electricity,689695.3333333334,659063.5,146697.81305209248,500829.0,940190.0,6,France
+Abstractions for manufacturing. Non-freshwater,21.5,23.5,19.674857051577273,0.0,48.0,6,France
+Electricity production (cooling). Non-freshwater,4629.5,4684.0,421.9278374319475,3952.0,5058.0,6,France
+Total gross abstraction non-freshwater,4766.833333333333,4732.0,509.28240364916087,3952.0,5345.0,6,France
+Total water made available for use,32823.6888,32690.528,491.5914054503991,32282.677,33536.946,5,France
+Exported water,10.382,11.0,1.1043545626292313,9.107,11.039,3,Germany
+Imported water,1.15075,1.3065,0.6457467899003965,0.3,1.69,4,Germany
+Leakage,468.5953333333334,470.614,5.853174978875404,462.0,473.172,3,Germany
+Public water supply,4579.97975,4568.1945,443.3452621380428,4089.53,5094.0,4,Germany
+"Public water supply for agriculture, forestry and fishing",11.6645,11.6645,8.010812724062397,6.0,17.329,2,Germany
+Public water supply for basic metals,32.56281818181819,25.9,17.988106313996376,24.071,86.0,11,Germany
+"Public water supply for chemicals, refined petroleum etc",109.0125,101.25,30.907199503398186,79.53,177.635,8,Germany
+Public water supply for construction,0.2875,0.2875,0.013435028842544395,0.278,0.297,2,Germany
+Public water supply for cooling (electricity),21.658,21.658,4.552353457278993,18.439,24.877,2,Germany
+Public water supply for cooling (manufacturing),89.1755,89.1755,63.77749612912065,44.078,134.273,2,Germany
+Public water supply for electricity,33.260571428571424,34.004,6.495930979137191,26.439,45.0,7,Germany
+Public water supply for food processing industry,125.105,126.426,7.723794753875847,112.2,135.158,11,Germany
+Public water supply for households,3684.2093333333337,3682.941,125.36005026908173,3540.535,3854.983,6,Germany
+Public water supply for industrial activities,462.51,462.51,,462.51,462.51,1,Germany
+Public water supply for industry and construction,453.06899999999996,443.155,75.43943843021809,375.666,550.3,4,Germany
+Public water supply for mining and quarrying,16.53875,13.352,15.772829071433783,1.451,38.0,4,Germany
+Public water supply for other manufacturing industries,76.768625,66.4175,20.298626272572527,62.475,121.0,8,Germany
+Public water supply for paper products,7.583272727272727,6.651,1.588261445160026,6.13,10.9,11,Germany
+Public water supply for services,101.982,101.982,30.408420018146284,80.48,123.484,2,Germany
+Public water supply for textiles,4.3205,2.9375,2.5027838785754435,2.539,9.0,8,Germany
+Public water supply for total manufacturing,372.94075,358.16700000000003,46.482268099167186,330.8,466.0,8,Germany
+Public water supply transport vehicles and equipment,13.418625,17.215,7.4991429593654235,3.7,20.172,8,Germany
+Self- and other supply ,15335.954,15335.954,3250.383196924326,13037.586,17634.322,2,Germany
+Self- and other supply - Construction,1.7149999999999999,1.7149999999999999,0.4058792924010782,1.428,2.002,2,Germany
+Self- and other supply - Households,23.4804,23.175,0.8478663220107289,22.778,24.805,5,Germany
+Self- and other supply - Other manufacturing,253.797,247.73399999999998,24.255928388746504,230.852,295.7,6,Germany
+Self- and other supply - Services,222.34050000000002,222.34050000000002,194.42678766183428,84.86,359.821,2,Germany
+Self- and other supply - transport vehicles and equipment,74.55683333333333,88.67949999999999,31.351290342929538,16.3,100.544,6,Germany
+"Self- and other supply for agriculture, fishing and forestry",358.9335,358.9335,101.20607227088702,287.37,430.497,2,Germany
+Self- and other supply for basic metals,601.9015,610.0845,85.94544781604205,494.858,731.399,6,Germany
+"Self- and other supply for chemicals, refined petroleum etc",2523.9165,2496.1005,189.69831743138874,2295.666,2782.6,6,Germany
+Self- and other supply for electricity production (cooling),10355.0535,10355.0535,3226.3111607723918,8073.707,12636.4,2,Germany
+Self- and other supply for electricity production and distribution,12011.3392,11889.12,3115.8596546720773,8169.706,16670.2,5,Germany
+Self- and other supply for food processing industry,277.25533333333334,278.5925,7.703967125232737,267.567,284.966,6,Germany
+Self- and other supply for industrial activities,17238.28,17238.28,,17238.28,17238.28,1,Germany
+Self- and other supply for industry and contruction,16377.685000000001,16377.685000000001,3352.9235796913135,14006.81,18748.56,2,Germany
+Self- and other supply for manufacturing (cooling),3152.8785,3152.8785,81.13979603437517,3095.504,3210.253,2,Germany
+Self- and other supply for mining and quarrying.,424.7555,424.7555,252.81118037084514,245.991,603.52,2,Germany
+Self- and other supply for paper products,438.87016666666665,425.44849999999997,50.319950267927204,379.973,499.2,6,Germany
+Self- and other supply for textiles,17.065,15.589500000000001,4.942544162675737,11.661,25.7,6,Germany
+Self- and other supply for total manufacturing,4187.3623333333335,4132.0095,314.38630523078825,3807.365,4565.753,6,Germany
+Total losses during transport,468.5953333333334,470.614,5.853174978875404,462.0,473.172,3,Germany
+Abstractions for hydro-electricity,9230.673333333334,8964.52,2302.2066771397103,7006.0,12328.0,6,Greece
+Abstractions from artificial reservoirs ,9300.313333333334,9024.439999999999,2298.0922620875485,7080.0,12403.0,6,Greece
+Electricity production (cooling). Non-freshwater,926.4333333333334,934.5,180.89822184495532,605.0,1144.6,6,Greece
+Public water supply,971.7932000000001,1143.5900000000001,323.6222280993003,537.2,1290.997,10,Greece
+"Public water supply for agriculture, forestry and fishing",0.0,0.0,0.0,0.0,0.0,6,Greece
+Public water supply for cooling (electricity),0.016666666666666666,0.01,0.023380903889000243,0.0,0.06,6,Greece
+Public water supply for electricity,0.3401666666666667,0.36,0.07776995992455359,0.22,0.45,6,Greece
+Public water supply for households,793.5373636363637,1020.83,348.43293221085537,332.7,1149.007,11,Greece
+Public water supply for industrial activities,111.602,94.61,26.655691137166187,90.86,141.99,5,Greece
+Public water supply for industry and construction,116.53683333333333,117.05000000000001,26.730809493291947,90.86,141.99,6,Greece
+Public water supply for mining and quarrying,19.281666666666666,19.575,1.8442496215715127,17.12,21.18,6,Greece
+Public water supply for services,137.1,204.5,98.7969297768576,31.8,230.7,7,Greece
+Public water supply for total manufacturing,96.915,96.91499999999999,25.781300781768177,73.38,120.45,6,Greece
+Self- and other supply ,8054.484333333334,7994.096,347.0081742724029,7681.092,8528.46,6,Greece
+Self- and other supply - Households,0.0,0.0,0.0,0.0,0.0,6,Greece
+Self- and other supply - Services,0.0,0.0,0.0,0.0,0.0,6,Greece
+"Self- and other supply for agriculture, fishing and forestry",6912.406,6912.406,338.16828878414924,6603.702,7221.11,6,Greece
+Self- and other supply for electricity production (cooling),1045.7643333333333,1055.935,168.48126868191213,748.82,1225.15,6,Greece
+Self- and other supply for electricity production and distribution,1045.7643333333333,1055.935,168.48126868191213,748.82,1225.15,6,Greece
+Self- and other supply for industrial activities,1111.7440000000001,1135.44,159.60149241156864,869.63,1307.35,5,Greece
+Self- and other supply for industry and contruction,1142.0776666666668,1152.1750000000002,160.9324183645628,869.63,1307.35,6,Greece
+Self- and other supply for mining and quarrying.,5.253333333333333,4.63,2.095000397772436,3.19,8.68,6,Greece
+Self- and other supply for total manufacturing,90.56,90.56,27.98862268851399,65.01,116.11,6,Greece
+Total gross abstraction non-freshwater,926.4333333333334,934.5,180.89822184495532,605.0,1144.6,6,Greece
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,4,Greece
+Abstractions for hydro-electricity,14159.0,14159.0,,14159.0,14159.0,1,Hungary
+Leakage,127.09742857142858,126.682,7.5391719009703575,116.0,138.0,7,Hungary
+Public water supply,527.5905,497.45,102.21591075738426,436.065,810.6,14,Hungary
+"Public water supply for agriculture, forestry and fishing",4.455454545454545,1.491,10.490361589226907,0.0,36.0,11,Hungary
+Public water supply for basic metals,3.5,3.5,,3.5,3.5,1,Hungary
+"Public water supply for chemicals, refined petroleum etc",14.2,14.2,,14.2,14.2,1,Hungary
+Public water supply for cooling (electricity),0.0,0.0,0.0,0.0,0.0,7,Hungary
+Public water supply for cooling (manufacturing),0.05157142857142857,0.052,0.029016415715115144,0.0,0.1,7,Hungary
+Public water supply for electricity,6.0908181818181815,0.236,9.628848745495818,0.022,29.6,11,Hungary
+Public water supply for food processing industry,19.9,19.9,,19.9,19.9,1,Hungary
+Public water supply for households,369.76913333333334,371.2,30.165567080143987,331.191,435.2,15,Hungary
+Public water supply for industry and construction,70.90854545454546,60.065,39.498171738356795,44.3,187.0,11,Hungary
+Public water supply for mining and quarrying,2.525,2.55,1.2971121771072844,1.1,3.9,4,Hungary
+Public water supply for other manufacturing industries,16.3,16.3,,16.3,16.3,1,Hungary
+Public water supply for paper products,0.7,0.7,,0.7,0.7,1,Hungary
+Public water supply for services,74.12345454545454,50.163,43.55423067019697,24.0,164.9,11,Hungary
+Public water supply for textiles,2.1,2.1,,2.1,2.1,1,Hungary
+Public water supply for total manufacturing,25.117933333333333,9.197,30.77114902786761,6.121,118.3,15,Hungary
+Public water supply transport vehicles and equipment,0.2,0.2,,0.2,0.2,1,Hungary
+"Self- and other supply for agriculture, fishing and forestry",436.09999999999997,446.0,72.55832136977811,359.1,503.2,3,Hungary
+Public water supply,63.25,63.0,1.5,62.0,65.0,4,Iceland
+"Public water supply for agriculture, forestry and fishing",0.0,0.0,,0.0,0.0,1,Iceland
+Public water supply for electricity,0.0,0.0,,0.0,0.0,1,Iceland
+Public water supply for households,30.0,30.0,0.0,30.0,30.0,4,Iceland
+Public water supply for industry and construction,4.333333333333333,4.0,0.5773502691896258,4.0,5.0,3,Iceland
+Public water supply for mining and quarrying,0.0,0.0,,0.0,0.0,1,Iceland
+Public water supply for total manufacturing,4.333333333333333,4.0,0.5773502691896258,4.0,5.0,3,Iceland
+Public water supply,639.0,639.0,42.42640687119285,609.0,669.0,2,Ireland
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,10,Ireland
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,10,Ireland
+Abstractions for services - non-freshwater,11.7725,11.27,1.1005869646087336,11.13,13.42,4,Italy
+Abstractions from artificial reservoirs ,804.3025,891.44,206.29875268244675,496.65,937.68,4,Italy
+Public water supply,5298.824333333333,5369.2,393.70948067875287,4874.673,5652.6,3,Italy
+"Public water supply for agriculture, forestry and fishing",64.6485,64.6485,29.771316808297208,43.597,85.7,2,Italy
+Public water supply for basic metals,0.0,0.0,,0.0,0.0,1,Italy
+"Public water supply for chemicals, refined petroleum etc",98.418,98.418,,98.418,98.418,1,Italy
+Public water supply for cooling (electricity),0.0,0.0,,0.0,0.0,1,Italy
+Public water supply for electricity,0.0,0.0,,0.0,0.0,1,Italy
+Public water supply for food processing industry,46.891,46.891,,46.891,46.891,1,Italy
+Public water supply for households,3948.7765,3948.7765,372.6785077040262,3685.253,4212.3,2,Italy
+Public water supply for industry and construction,503.2,503.2,,503.2,503.2,1,Italy
+Public water supply for mining and quarrying,0.0,0.0,,0.0,0.0,1,Italy
+Public water supply for other manufacturing industries,108.37,108.37,,108.37,108.37,1,Italy
+Public water supply for paper products,23.213,23.213,,23.213,23.213,1,Italy
+Public water supply for services,836.735,836.735,20.739441892201388,822.07,851.4,2,Italy
+Public water supply for textiles,46.859,46.859,,46.859,46.859,1,Italy
+Public water supply for total manufacturing,323.751,323.751,,323.751,323.751,1,Italy
+Public water supply transport vehicles and equipment,0.0,0.0,,0.0,0.0,1,Italy
+Self- and other supply - Other manufacturing,1568.82,1568.82,,1568.82,1568.82,1,Italy
+Self- and other supply - transport vehicles and equipment,89.11,89.11,,89.11,89.11,1,Italy
+Self- and other supply for basic metals,133.648,133.648,,133.648,133.648,1,Italy
+"Self- and other supply for chemicals, refined petroleum etc",740.164,740.164,,740.164,740.164,1,Italy
+Self- and other supply for food processing industry,339.307,339.307,,339.307,339.307,1,Italy
+Self- and other supply for mining and quarrying.,48.624,48.624,,48.624,48.624,1,Italy
+Self- and other supply for paper products,190.567,190.567,,190.567,190.567,1,Italy
+Self- and other supply for textiles,357.026,357.026,,357.026,357.026,1,Italy
+Self- and other supply for total manufacturing,3418.642,3418.642,,3418.642,3418.642,1,Italy
+Water abstraction for public water supply. Desalinated water,9.264,4.5,9.93949847829356,4.33,27.0,5,Italy
+Abstractions for services - non-freshwater,10.17,7.95,7.4233595269707,3.9,20.88,4,Japan
+Public water supply,97469.28571428571,99280.0,7946.740080357597,80473.0,105221.0,7,Japan
+"Public water supply for agriculture, forestry and fishing",55498.42857142857,54950.0,1560.1209202219836,54025.0,58534.0,7,Japan
+Public water supply for households,15835.57142857143,15853.0,440.24154625343925,15164.0,16339.0,7,Japan
+Public water supply for industrial activities,12466.142857142857,12624.0,904.0939163183268,11285.0,14009.0,7,Japan
+Public water supply for services,15947.5,15974.0,356.84716616501237,15415.0,16339.0,6,Japan
+Public water supply for total manufacturing,12466.0,12624.0,904.2518085872617,11285.0,14009.0,7,Japan
+Total abstractions of reused water,184.625,192.0,30.780037593962,110.0,203.0,8,Japan
+"Abstractions for agriculture, forestry, fishing. Reused water",0.0,0.0,,0.0,0.0,1,Luxembourg
+Abstractions for electricity production (cooling). Reused water,0.0,0.0,,0.0,0.0,1,Luxembourg
+Abstractions for hydro-electricity,19.217,18.442,1.915906834895687,17.81,21.399,3,Luxembourg
+Abstractions for irrigation. Reused water,0.0,0.0,0.0,0.0,0.0,6,Luxembourg
+Abstractions for manufacturing cooling. Reused water,0.0,0.0,,0.0,0.0,1,Luxembourg
+Abstractions for manufacturing. Reused water,0.0,0.0,0.0,0.0,0.0,6,Luxembourg
+Abstractions for services - reused water,0.0,0.0,,0.0,0.0,1,Luxembourg
+Abstractions from artificial reservoirs ,22.549999999999997,22.549999999999997,0.6434671708797596,22.095,23.005,2,Luxembourg
+Exported water,0.0,0.0,0.0,0.0,0.0,2,Luxembourg
+Imported water,0.26866666666666666,0.0,0.4653443169668384,0.0,0.806,3,Luxembourg
+Public water supply,42.43,42.705,1.3847021340346053,40.59,43.72,4,Luxembourg
+Public water supply for basic metals,6.8,6.8,,6.8,6.8,1,Luxembourg
+"Public water supply for chemicals, refined petroleum etc",2.1,2.1,,2.1,2.1,1,Luxembourg
+Public water supply for mining and quarrying,0.0,0.0,,0.0,0.0,1,Luxembourg
+Public water supply for other manufacturing industries,4.2,4.2,,4.2,4.2,1,Luxembourg
+Public water supply for total manufacturing,13.2,13.2,,13.2,13.2,1,Luxembourg
+Self- and other supply ,3.298,2.781,1.562043213230671,2.06,5.053,3,Luxembourg
+Self- and other supply - Construction,0.018666666666666665,0.02,0.012055427546683414,0.006,0.03,3,Luxembourg
+Self- and other supply - Households,0.0016666666666666668,0.002,0.0015275252316519468,0.0,0.003,3,Luxembourg
+Self- and other supply - Services,0.23533333333333337,0.196,0.09157146571576397,0.17,0.34,3,Luxembourg
+Self- and other supply - transport vehicles and equipment,0.0,0.0,0.0,0.0,0.0,3,Luxembourg
+"Self- and other supply for agriculture, fishing and forestry",0.5306666666666667,0.61,0.20298111570619898,0.3,0.682,3,Luxembourg
+Self- and other supply for basic metals,0.23833333333333337,0.05,0.3703489345648686,0.0,0.665,3,Luxembourg
+"Self- and other supply for chemicals, refined petroleum etc",0.0,0.0,0.0,0.0,0.0,3,Luxembourg
+Self- and other supply for electricity production (cooling),0.0,0.0,0.0,0.0,0.0,3,Luxembourg
+Self- and other supply for electricity production and distribution,0.0,0.0,0.0,0.0,0.0,3,Luxembourg
+Self- and other supply for food processing industry,0.545,0.478,0.17066634114552293,0.418,0.739,3,Luxembourg
+Self- and other supply for industrial activities,2.533333333333333,1.91,1.3661747082029199,1.59,4.1,3,Luxembourg
+Self- and other supply for industry and contruction,2.3510000000000004,1.9,1.5543715771976794,1.072,4.081,3,Luxembourg
+Self- and other supply for manufacturing (cooling),1.2876666666666665,0.98,0.6278426023561425,0.873,2.01,3,Luxembourg
+Self- and other supply for mining and quarrying.,0.0,0.0,0.0,0.0,0.0,3,Luxembourg
+Self- and other supply for paper products,0.0,0.0,0.0,0.0,0.0,3,Luxembourg
+Self- and other supply for textiles,0.0,0.0,0.0,0.0,0.0,3,Luxembourg
+Self- and other supply for total manufacturing,2.5116666666666667,1.895,1.3685058762509328,1.56,4.08,3,Luxembourg
+Total abstractions of reused water,0.0,0.0,0.0,0.0,0.0,8,Luxembourg
+Total desalinated water. Non-freshwater,0.0,0.0,0.0,0.0,0.0,5,Luxembourg
+Abstractions for irrigation. Reused water,2766.0,2766.0,0.0,2766.0,2766.0,11,Mexico
+Abstractions for manufacturing. Reused water,552.0,552.0,0.0,552.0,552.0,11,Mexico
+Exported water,433.45454545454544,432.0,3.2361593398235553,432.0,440.0,11,Mexico
+Imported water,49047.09090909091,48381.0,770.4012531850478,48381.0,50000.0,11,Mexico
+Public water supply,11454.25,11678.5,1454.9323711243264,8500.0,13288.0,12,Mexico
+Public water supply for households,38.628699999999995,38.6285,1.5946438857068446,36.4,41.938,10,Mexico
+Total abstractions of reused water,3318.0,3318.0,0.0,3318.0,3318.0,11,Mexico
+Total losses during transport,28784.346500000003,29016.7325,2154.42951834387,24617.0,31705.0,10,Mexico
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",0.0,0.0,0.0,0.0,0.0,10,Netherlands
+Abstractions for aquaculture. Non-freshwater,0.0,0.0,0.0,0.0,0.0,10,Netherlands
+Abstractions for cooling (manufacturing). Non-freshwater,655.1,615.5,376.9321925463223,273.0,1586.0,10,Netherlands
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,10,Netherlands
+Abstractions for irrigation. Reused water,0.0,0.0,0.0,0.0,0.0,9,Netherlands
+Abstractions for manufacturing. Non-freshwater,655.1,615.5,376.9321925463223,273.0,1586.0,10,Netherlands
+Abstractions for manufacturing. Reused water,0.0,0.0,0.0,0.0,0.0,9,Netherlands
+Abstractions for services - non-freshwater,0.0,0.0,0.0,0.0,0.0,10,Netherlands
+Electricity production (cooling). Non-freshwater,4446.5,4023.0,1235.270663098218,3124.0,6657.0,10,Netherlands
+Evaporation losses,0.0,0.0,0.0,0.0,0.0,10,Netherlands
+Exported water,2.5,2.5,0.5270462766947299,2.0,3.0,10,Netherlands
+Imported water,10.153846153846153,10.0,2.2303271003059115,7.0,14.0,13,Netherlands
+Leakage,51.22222222222222,54.0,7.7100223374802495,41.0,60.0,9,Netherlands
+Public water supply,1140.7764285714286,1108.2350000000001,78.98559806476347,1072.5,1274.0,14,Netherlands
+"Public water supply for agriculture, forestry and fishing",55.333571428571425,47.985,16.730141204582665,41.0,94.0,14,Netherlands
+Public water supply for basic metals,1.5222222222222221,1.5,0.31534813214040824,1.0,2.0,9,Netherlands
+"Public water supply for chemicals, refined petroleum etc",52.57000000000001,52.15,10.502597562296462,41.2,78.5,10,Netherlands
+Public water supply for construction,2.83,2.9,0.266874918683308,2.4,3.2,10,Netherlands
+Public water supply for cooling (electricity),0.003,0.0,0.009486832980505138,0.0,0.03,10,Netherlands
+Public water supply for cooling (manufacturing),0.0,0.0,0.0,0.0,0.0,9,Netherlands
+Public water supply for electricity,4.26,3.6,2.038626988931521,2.3,9.2,10,Netherlands
+Public water supply for food processing industry,59.486000000000004,60.3,4.296014173367889,53.4,64.9,10,Netherlands
+Public water supply for households,780.0123076923077,789.4,33.80648314397851,711.5,818.4,13,Netherlands
+Public water supply for industrial activities,157.378,152.15,24.70387185127961,136.9,224.98,10,Netherlands
+Public water supply for industry and construction,163.082,157.05,28.055257300944902,140.2,240.0,10,Netherlands
+Public water supply for mining and quarrying,3.418,3.6,0.8322099094178899,2.2,4.7,10,Netherlands
+Public water supply for other manufacturing industries,19.44,19.75,1.719948319637025,16.4,21.4,10,Netherlands
+Public water supply for paper products,4.238,3.8499999999999996,1.5439473220720106,1.8,6.98,10,Netherlands
+Public water supply for services,98.46666666666667,99.7,5.2270928822817,91.3,105.4,9,Netherlands
+Public water supply for textiles,2.107,1.9500000000000002,0.6965318848887441,1.4,3.4,10,Netherlands
+Public water supply for total manufacturing,146.87,141.5,24.71621375175053,128.3,215.0,10,Netherlands
+Public water supply transport vehicles and equipment,2.4579999999999997,2.3499999999999996,0.33312660256024795,2.1,3.2,10,Netherlands
+Self- and other supply ,13364.551000000001,13344.849999999999,488.85550195101416,12760.6,14067.6,10,Netherlands
+Self- and other supply - Construction,0.0,0.0,0.0,0.0,0.0,9,Netherlands
+Self- and other supply - Households,0.0,0.0,0.0,0.0,0.0,9,Netherlands
+Self- and other supply - Other manufacturing,51.38777777777778,47.6,14.20636633500785,32.3,68.9,9,Netherlands
+Self- and other supply - Services,0.0,0.0,0.0,0.0,0.0,9,Netherlands
+Self- and other supply - transport vehicles and equipment,1.8199999999999998,1.6,0.7583608053631933,1.0,3.3,10,Netherlands
+"Self- and other supply for agriculture, fishing and forestry",119.74100000000001,106.4,61.40327831458006,53.4,253.4,10,Netherlands
+Self- and other supply for basic metals,259.56,258.1,22.68377785506148,224.5,293.0,10,Netherlands
+"Self- and other supply for chemicals, refined petroleum etc",2861.71,2807.3,326.73274994846923,2328.8,3293.9,10,Netherlands
+Self- and other supply for electricity production (cooling),9802.052,9643.65,650.8991588871505,9028.8,11003.4,10,Netherlands
+Self- and other supply for electricity production and distribution,9807.784,9651.6,652.4983214146141,9037.5,11014.2,10,Netherlands
+Self- and other supply for food processing industry,227.7444444444444,221.4,19.987002721213045,204.2,266.2,9,Netherlands
+Self- and other supply for industrial activities,13211.488888888889,13178.8,534.7032458393268,12507.2,13960.7,9,Netherlands
+Self- and other supply for industry and contruction,13728.969000000001,13642.0,487.5192605300609,13173.7,14517.2,10,Netherlands
+Self- and other supply for manufacturing (cooling),3205.7119,3197.1949999999997,323.3846285883282,2711.86,3723.22,10,Netherlands
+Self- and other supply for mining and quarrying.,27.11111111111111,34.1,12.484735123786612,4.7,36.7,9,Netherlands
+Self- and other supply for paper products,105.771,101.8,35.649568627591194,62.01,166.0,10,Netherlands
+Self- and other supply for textiles,7.377777777777778,7.0,3.077246243712785,2.1,11.3,9,Netherlands
+Self- and other supply for total manufacturing,3425.72,3448.6499999999996,357.7195170645415,2908.9,4000.7,10,Netherlands
+Total abstractions of reused water,0.0,0.0,0.0,0.0,0.0,9,Netherlands
+Total gross abstraction non-freshwater,5117.9,4819.0,1354.7923539134038,3470.0,7307.0,10,Netherlands
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,10,Netherlands
+Total losses during transport,51.22222222222222,54.0,7.7100223374802495,41.0,60.0,9,Netherlands
+Total non-renewable groundwater,0.0,0.0,0.0,0.0,0.0,10,Netherlands
+Total water made available for use,15270.074444444446,15184.96,595.4371105564194,14564.23,16392.47,9,Netherlands
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,10,Netherlands
+Abstractions for hydro-electricity,163.72727272727272,161.0,9.839623052646976,152.0,185.0,11,New Zealand
+Public water supply for electricity,185.303,185.303,,185.303,185.303,1,New Zealand
+Abstractions for cooling (manufacturing). Non-freshwater,510.0,510.0,,510.0,510.0,1,Norway
+Abstractions for manufacturing. Non-freshwater,824.8,825.0,117.92031207557078,698.0,957.0,5,Norway
+Public water supply,530.03875,530.3925,6.612460529182747,523.296,536.074,4,Norway
+"Public water supply for agriculture, forestry and fishing",24.549,24.631,1.1109593451907525,23.134,25.8,4,Norway
+Public water supply for basic metals,61.875,66.75,13.480696075005424,42.0,72.0,4,Norway
+"Public water supply for chemicals, refined petroleum etc",8.225,8.05,0.9912113800799502,7.3,9.5,4,Norway
+Public water supply for construction,29.599999999999998,27.8,7.269112738154499,23.4,37.6,3,Norway
+Public water supply for cooling (manufacturing),38.0,38.0,,38.0,38.0,1,Norway
+Public water supply for food processing industry,29.525,30.0,4.439500722678922,24.0,34.1,4,Norway
+Public water supply for households,339.7155833333333,351.9365,29.01512280442838,295.0,372.4,12,Norway
+Public water supply for industry and construction,91.61225,92.4135,2.4635175900867186,88.098,93.524,4,Norway
+Public water supply for mining and quarrying,1.375,1.35,0.1707825127659933,1.2,1.6,4,Norway
+Public water supply for other manufacturing industries,53.25,61.5,29.655971855035652,12.0,78.0,4,Norway
+Public water supply for paper products,2.22,2.5,0.9523654760647301,0.7,3.2,5,Norway
+Public water supply for services,78.38928571428572,56.978,31.313882622644567,51.053,118.6,7,Norway
+Public water supply for textiles,1.125,1.1,0.04999999999999993,1.1,1.2,4,Norway
+Public water supply for total manufacturing,292.98,185.5,304.5990101756734,89.7,833.0,5,Norway
+Public water supply transport vehicles and equipment,1.375,1.3,0.15000000000000002,1.3,1.6,4,Norway
+Self- and other supply - Other manufacturing,57.25,65.6,27.574082033677932,18.0,79.8,4,Norway
+Self- and other supply - Services,7.6000000000000005,7.4,0.43588989435406733,7.3,8.1,3,Norway
+Self- and other supply - transport vehicles and equipment,0.8500000000000001,0.8,0.09999999999999996,0.8,1.0,4,Norway
+"Self- and other supply for agriculture, fishing and forestry",785.1666666666666,745.6,80.50629374982638,732.1,877.8,3,Norway
+Self- and other supply for basic metals,94.95,93.8,3.422961680572348,92.3,99.9,4,Norway
+"Self- and other supply for chemicals, refined petroleum etc",556.85,546.9,56.261621021794234,503.0,630.6,4,Norway
+Self- and other supply for food processing industry,1.8,1.65,0.48304589153964794,1.4,2.5,4,Norway
+Self- and other supply for manufacturing (cooling),631.0,631.0,,631.0,631.0,1,Norway
+Self- and other supply for mining and quarrying.,41.275000000000006,41.45,5.328148521453456,34.7,47.5,4,Norway
+Self- and other supply for paper products,194.3,197.0,32.13199340221518,150.0,239.1,5,Norway
+Self- and other supply for textiles,0.2,0.2,0.0,0.2,0.2,4,Norway
+Self- and other supply for total manufacturing,905.525,915.55,96.53377215600075,791.0,1000.0,4,Norway
+Water abstraction for public water supply. Desalinated water,0.39444444444444443,0.3,0.4332756371846654,0.0,1.44,9,Norway
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",0.0,0.0,0.0,0.0,0.0,11,Poland
+"Abstractions for agriculture, forestry, fishing. Reused water",4.233333333333333,4.4,1.8556220879622374,2.3,6.0,3,Poland
+Abstractions for aquaculture. Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Poland
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Poland
+Abstractions for irrigation. Reused water,2.374166666666667,2.1500000000000004,1.5683254435765863,0.69,6.0,12,Poland
+Abstractions for manufacturing. Non-freshwater,166.4,173.5,23.54758775095421,122.0,196.0,10,Poland
+Abstractions for services - non-freshwater,1.4285714285714286,1.0,0.5345224838248488,1.0,2.0,7,Poland
+Electricity production (cooling). Non-freshwater,74.922,73.5,21.770386512161167,48.0,110.0,10,Poland
+Exported water,0.07,0.07,,0.07,0.07,1,Poland
+Imported water,4.691111111111111,5.0,0.4676655975278823,4.0,5.0,9,Poland
+Public water supply,1712.9886666666669,1632.79,210.93672574856137,1521.8,2167.4,15,Poland
+"Public water supply for agriculture, forestry and fishing",0.7723333333333334,0.85,0.16120277086121487,0.587,0.88,3,Poland
+Public water supply for basic metals,1.9511666666666667,0.30000000000000004,2.7248869812537286,0.054,8.2,12,Poland
+"Public water supply for chemicals, refined petroleum etc",1.3830833333333334,1.33,0.9054780212515912,0.4,3.8,12,Poland
+Public water supply for construction,0.12871428571428573,0.0,0.26136635901809097,0.0,0.9,14,Poland
+Public water supply for electricity,8.780333333333335,9.6,3.028182190845256,2.11,12.3,15,Poland
+Public water supply for food processing industry,10.381416666666667,11.25,2.0984185585744557,6.4,12.3,12,Poland
+Public water supply for households,1336.2171333333333,1268.6,194.41181877758754,1191.1,1856.5,15,Poland
+Public water supply for industrial activities,27.265,27.265,0.7424621202458767,26.74,27.79,2,Poland
+Public water supply for industry and construction,50.66166666666666,33.5,54.58137822380015,27.0,243.5,15,Poland
+Public water supply for mining and quarrying,5.878066666666666,5.5,2.2133246636376387,3.3,10.2,15,Poland
+Public water supply for other manufacturing industries,4.194166666666667,4.0,2.9761123461606247,1.39,12.7,12,Poland
+Public water supply for paper products,0.38799999999999996,0.35,0.21138676315314456,0.1,0.75,12,Poland
+Public water supply for services,168.95814285714283,169.0,28.39488592594189,119.3,232.5,14,Poland
+Public water supply for textiles,0.914,0.4,1.1426441424886562,0.188,4.2,12,Poland
+Public water supply for total manufacturing,23.983600000000003,19.4,12.60992704635065,12.4,53.4,15,Poland
+Public water supply transport vehicles and equipment,0.2343333333333333,0.2,0.17637735029467275,0.05,0.7,12,Poland
+Self- and other supply ,8416.02490909091,8555.7,715.8439015435504,7110.5,9290.7,11,Poland
+Self- and other supply - Construction,9.58390909090909,3.4,17.024123240005906,0.23,59.5,11,Poland
+Self- and other supply - Other manufacturing,44.35327272727273,44.0,10.435279479639336,27.15,55.4,11,Poland
+Self- and other supply - transport vehicles and equipment,5.148363636363636,3.0,4.469309281594353,0.872,11.7,11,Poland
+"Self- and other supply for agriculture, fishing and forestry",1028.7356363636363,1033.3,104.99347631855301,841.44,1159.3,11,Poland
+Self- and other supply for basic metals,37.81854545454546,37.7,10.84145134531015,18.59,58.4,11,Poland
+"Self- and other supply for chemicals, refined petroleum etc",362.59145454545455,372.8,34.02856687068571,306.3,403.4,11,Poland
+Self- and other supply for electricity production (cooling),6237.006454545454,6371.2,650.7553288343267,5082.3,7078.8,11,Poland
+Self- and other supply for electricity production and distribution,6447.619636363635,6580.7,657.2177647792656,5272.13,7296.3,11,Poland
+Self- and other supply for food processing industry,90.60863636363636,90.6,13.500641483075738,65.4,105.4,11,Poland
+Self- and other supply for industry and contruction,7328.722181818182,7442.5,607.2352716668918,6225.9,8092.3,11,Poland
+Self- and other supply for manufacturing (cooling),214.86254545454543,236.4,42.216944362100946,119.4,265.9,11,Poland
+Self- and other supply for mining and quarrying.,59.24581818181818,53.3,19.30414681781188,39.02,94.7,11,Poland
+Self- and other supply for paper products,92.03072727272728,88.8,5.508343654691659,87.1,101.83,11,Poland
+Self- and other supply for textiles,6.809727272727272,4.6,3.7557413140659492,4.1,14.5,11,Poland
+Self- and other supply for total manufacturing,639.3607272727272,649.9,31.244368097597718,573.2,685.2,11,Poland
+Total gross abstraction non-freshwater,264.575,264.5,35.206148847419634,209.0,316.0,10,Poland
+Total losses during transport,360.1190909090909,353.0,32.07232465991374,320.0,416.0,11,Poland
+Public water supply,659.198625,666.567,50.01717242232911,548.9,718.2,8,Portugal
+"Public water supply for agriculture, forestry and fishing",0.9,0.9,0.20000000000000004,0.7,1.1,3,Portugal
+Public water supply for households,545.7333333333332,548.9,75.20002216311727,469.0,619.3,3,Portugal
+Public water supply for industry and construction,7.9,7.9,0.28284271247461895,7.7,8.1,2,Portugal
+Public water supply for services,17.033333333333335,13.2,8.800189391901364,10.8,27.1,3,Portugal
+Public water supply for total manufacturing,11.299999999999999,8.7,5.0318982501636516,8.1,17.1,3,Portugal
+Water abstraction for public water supply. Desalinated water,2.287714285714286,2.798,0.839212073770334,1.0,3.013,7,Portugal
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",12.041666666666666,5.5,16.763676008958576,1.5,52.0,12,Spain
+Abstractions for cooling (manufacturing). Non-freshwater,172.1875,162.0,34.42376411309904,138.0,230.0,8,Spain
+Abstractions for hydro-electricity,5504.1,6064.5,1256.3442070812705,3100.0,6650.0,10,Spain
+Abstractions for irrigation. Non-freshwater,12.041666666666666,5.5,16.763676008958576,1.5,52.0,12,Spain
+Abstractions for irrigation. Reused water,285.1111111111111,317.0,72.22784166172427,152.0,353.0,9,Spain
+Abstractions for manufacturing. Non-freshwater,152.45833333333334,149.5,58.92973409583706,51.4,246.0,12,Spain
+Abstractions for manufacturing. Reused water,3.0999999999999996,0.0,3.751666296460814,0.0,8.2,9,Spain
+Abstractions for services - desalinated water,0.0,0.0,0.0,0.0,0.0,2,Spain
+Abstractions for services - non-freshwater,0.725,0.0,1.6965874840128612,0.0,4.6,12,Spain
+Abstractions from artificial reservoirs ,18792.5,18900.0,1728.3828114330295,16800.0,21000.0,8,Spain
+Electricity production (cooling). Non-freshwater,8.433333333333334,7.0,5.3595002028400405,3.0,19.1,12,Spain
+Exported water,0.0,0.0,0.0,0.0,0.0,10,Spain
+Imported water,0.0,0.0,0.0,0.0,0.0,10,Spain
+Public water supply,3737.178583333334,3733.061,184.3399170536758,3407.7,4054.3,12,Spain
+"Public water supply for agriculture, forestry and fishing",92.79458333333334,50.349999999999994,122.01175588848979,17.5,362.3,12,Spain
+Public water supply for basic metals,35.873000000000005,35.114999999999995,5.677867459609186,28.8,46.8,10,Spain
+"Public water supply for chemicals, refined petroleum etc",145.189,131.85,25.73833045176871,120.89,187.1,10,Spain
+Public water supply for construction,27.485,26.1,13.932753105216106,9.3,48.3,12,Spain
+Public water supply for cooling (electricity),13.680000000000001,11.15,14.621202260948158,0.0,31.4,10,Spain
+Public water supply for cooling (manufacturing),37.614285714285714,34.1,12.537068845551392,20.2,52.6,7,Spain
+Public water supply for electricity,18.566666666666666,23.700000000000003,17.48970259809174,0.0,45.0,12,Spain
+Public water supply for food processing industry,91.6986,92.9,13.887925116605595,64.5,107.3,10,Spain
+Public water supply for households,2517.8521666666666,2490.05,218.58800007271185,2093.0,2881.0,12,Spain
+Public water supply for industrial activities,394.802,362.91,49.0091881181478,357.7,461.8,5,Spain
+Public water supply for industry and construction,412.5090833333333,405.65,52.89849309669902,350.5,499.4,12,Spain
+Public water supply for mining and quarrying,8.966666666666667,5.85,6.8582178089611245,1.2,17.2,12,Spain
+Public water supply for other manufacturing industries,38.17100000000001,29.75,18.145607641152903,19.0,71.7,10,Spain
+Public water supply for paper products,16.9653,17.6,2.964106912526754,12.6,21.6,10,Spain
+Public water supply for services,715.5394166666666,713.8499999999999,70.57776774910758,600.3,847.51,12,Spain
+Public water supply for textiles,10.885,9.2,3.9055551604235617,6.55,17.9,10,Spain
+Public water supply for total manufacturing,355.97408333333334,339.55,43.41353900771328,309.9,435.3,12,Spain
+Public water supply transport vehicles and equipment,17.527,11.850000000000001,9.621824786506052,10.2,35.2,10,Spain
+Self- and other supply ,23409.873,23397.300000000003,1999.9585381149495,21215.0,26512.5,10,Spain
+Self- and other supply - Construction,0.0,0.0,0.0,0.0,0.0,10,Spain
+Self- and other supply - Households,0.0,0.0,0.0,0.0,0.0,10,Spain
+Self- and other supply - Other manufacturing,63.92999999999999,27.5,56.12753434020695,18.7,159.0,10,Spain
+Self- and other supply - Services,88.63,84.5,36.8701942254475,45.2,145.4,10,Spain
+Self- and other supply - transport vehicles and equipment,6.709999999999999,5.1,4.155705582556215,2.1,12.7,10,Spain
+"Self- and other supply for agriculture, fishing and forestry",16566.917999999998,16472.0,1535.7172542554122,14534.0,19058.0,10,Spain
+Self- and other supply for basic metals,149.64000000000001,138.65,23.849817143487236,131.2,195.4,10,Spain
+"Self- and other supply for chemicals, refined petroleum etc",304.07000000000005,278.70000000000005,91.69598379669877,195.8,443.6,10,Spain
+Self- and other supply for electricity production (cooling),5894.84,5900.0,371.14958709393704,5320.0,6650.0,10,Spain
+Self- and other supply for electricity production and distribution,5894.84,5900.0,371.14958709393704,5320.0,6650.0,10,Spain
+Self- and other supply for food processing industry,129.82,125.35,14.67740515970798,118.7,170.3,10,Spain
+Self- and other supply for industrial activities,6740.2125,6763.299999999999,294.931857595954,6374.65,7059.6,4,Spain
+Self- and other supply for industry and contruction,6754.32,6773.2,534.0367981495076,5945.0,7697.7,10,Spain
+Self- and other supply for manufacturing (cooling),111.3142857142857,111.8,13.49820093832613,86.0,128.7,7,Spain
+Self- and other supply for mining and quarrying.,0.0,0.0,0.0,0.0,0.0,10,Spain
+Self- and other supply for paper products,162.64,127.85,67.16159947800858,108.2,281.4,10,Spain
+Self- and other supply for textiles,42.675,17.200000000000003,49.249981669483326,6.2,126.5,10,Spain
+Self- and other supply for total manufacturing,859.485,715.8,284.7837523162678,604.2,1338.3,10,Spain
+Total abstractions of reused water,440.07272727272726,501.0,118.02655710397633,247.5,608.0,11,Spain
+Total desalinated water. Non-freshwater,271.25,280.5,27.499999999999993,231.0,293.0,4,Spain
+Total gross abstraction non-freshwater,173.49166666666667,156.5,45.03478369465365,117.5,259.0,12,Spain
+Total gross abstraction. Desalinated water,299.40000000000003,309.0,103.43655059987256,95.0,495.8,12,Spain
+Total losses during transport,8127.85,8558.5,1570.4327911211515,5339.8,9816.0,8,Spain
+Total water made available for use,36130.78,36715.7,2109.388168924821,32534.4,38825.0,8,Spain
+Water abstraction for public water supply. Desalinated water,232.73333333333335,222.0,111.71655963629428,43.5,425.8,12,Spain
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",0.0,0.0,0.0,0.0,0.0,5,Sweden
+Abstractions for aquaculture. Non-freshwater,0.0,0.0,0.0,0.0,0.0,2,Sweden
+Abstractions for cooling (manufacturing). Non-freshwater,458.0,456.0,13.019216566291536,443.0,479.0,5,Sweden
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,2,Sweden
+Abstractions for irrigation. Reused water,0.0,0.0,,0.0,0.0,1,Sweden
+Abstractions for manufacturing. Non-freshwater,546.0,538.0,20.199009876724155,534.0,582.0,5,Sweden
+Abstractions for manufacturing. Reused water,7.0,7.0,,7.0,7.0,1,Sweden
+Abstractions for services - non-freshwater,1.8,3.0,1.6431676725154984,0.0,3.0,5,Sweden
+Abstractions from artificial reservoirs ,0.0,0.0,,0.0,0.0,1,Sweden
+Electricity production (cooling). Non-freshwater,9499.8,8702.0,1160.4267318534162,8702.0,11250.0,5,Sweden
+Evaporation losses,0.0,0.0,,0.0,0.0,1,Sweden
+Exported water,0.0,0.0,0.0,0.0,0.0,2,Sweden
+Imported water,0.0,0.0,0.0,0.0,0.0,2,Sweden
+Leakage,173.0,173.0,,173.0,173.0,1,Sweden
+Public water supply,723.3333333333334,722.5,17.551655365252778,689.0,760.0,12,Sweden
+"Public water supply for agriculture, forestry and fishing",0.0,0.0,0.0,0.0,0.0,3,Sweden
+Public water supply for basic metals,13.600000000000001,14.2,2.8142494558940574,8.0,17.0,9,Sweden
+"Public water supply for chemicals, refined petroleum etc",28.0,26.2,8.449852069711042,15.0,40.4,9,Sweden
+Public water supply for construction,0.0,0.0,,0.0,0.0,1,Sweden
+Public water supply for cooling (electricity),0.0,0.0,,0.0,0.0,1,Sweden
+Public water supply for cooling (manufacturing),0.0,0.0,,0.0,0.0,1,Sweden
+Public water supply for electricity,7.0,7.0,,7.0,7.0,1,Sweden
+Public water supply for food processing industry,25.4,26.0,1.9416487838947598,21.0,26.8,9,Sweden
+Public water supply for households,506.4166666666667,494.0,25.720378667272357,478.0,561.0,12,Sweden
+Public water supply for industrial activities,61.0,61.0,,61.0,61.0,1,Sweden
+Public water supply for industry and construction,107.88888888888889,103.0,27.03906638756433,61.0,148.0,9,Sweden
+Public water supply for mining and quarrying,1.0,1.0,0.0,1.0,1.0,3,Sweden
+Public water supply for other manufacturing industries,17.333333333333332,22.0,15.53490693030806,0.0,30.0,3,Sweden
+Public water supply for paper products,4.355555555555556,4.0,0.6765927710061486,4.0,6.0,9,Sweden
+Public water supply for services,110.5,107.0,16.445502286477776,92.0,140.0,12,Sweden
+Public water supply for textiles,1.4,1.2,0.4123105625617661,1.0,2.0,9,Sweden
+Public water supply for total manufacturing,94.0,99.5,15.117719885798069,54.0,106.0,12,Sweden
+Public water supply transport vehicles and equipment,1.3333333333333333,1.0,0.5773502691896258,1.0,2.0,3,Sweden
+Self- and other supply ,13493.222222222223,13619.0,657.8665855965363,12197.0,14293.0,9,Sweden
+Self- and other supply - Construction,0.0,0.0,,0.0,0.0,1,Sweden
+Self- and other supply - Households,84.0,84.0,4.105745103771405,77.0,91.0,8,Sweden
+Self- and other supply - Other manufacturing,45.0,45.0,,45.0,45.0,1,Sweden
+Self- and other supply - Services,21.8,21.200000000000003,3.8187507306522552,18.0,26.0,8,Sweden
+Self- and other supply - transport vehicles and equipment,6.0,6.0,,6.0,6.0,1,Sweden
+"Self- and other supply for agriculture, fishing and forestry",103.5,103.5,40.30508652763321,75.0,132.0,2,Sweden
+Self- and other supply for basic metals,335.0,335.0,20.0,315.0,355.0,3,Sweden
+"Self- and other supply for chemicals, refined petroleum etc",514.0,514.0,19.0,495.0,533.0,3,Sweden
+Self- and other supply for electricity production (cooling),10660.0,10660.0,495.0,10165.0,11155.0,3,Sweden
+Self- and other supply for electricity production and distribution,11235.625,11385.5,537.7232260718735,10227.0,11925.0,8,Sweden
+Self- and other supply for food processing industry,46.6,46.6,2.399999999999997,44.2,49.0,3,Sweden
+Self- and other supply for industrial activities,12027.0,12027.0,,12027.0,12027.0,1,Sweden
+Self- and other supply for industry and contruction,13144.75,13304.5,573.0773445680281,12047.0,13850.0,8,Sweden
+Self- and other supply for manufacturing (cooling),1045.3333333333333,1045.0,27.501515109777767,1018.0,1073.0,3,Sweden
+Self- and other supply for mining and quarrying.,42.0,42.0,41.012193308819754,13.0,71.0,2,Sweden
+Self- and other supply for paper products,870.6666666666666,871.0,47.50087718488293,823.0,918.0,3,Sweden
+Self- and other supply for textiles,1.4000000000000001,1.4,0.40000000000000013,1.0,1.8,3,Sweden
+Self- and other supply for total manufacturing,1912.0,1900.5,93.00691218552367,1734.0,2035.0,8,Sweden
+Total abstractions of reused water,69.0,69.0,,69.0,69.0,1,Sweden
+Total desalinated water. Non-freshwater,0.0,0.0,0.0,0.0,0.0,2,Sweden
+Total gross abstraction non-freshwater,10052.2,9243.0,1178.1072531819843,9243.0,11832.0,5,Sweden
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,3,Sweden
+Total losses during transport,173.0,173.0,,173.0,173.0,1,Sweden
+Total non-renewable groundwater,0.0,0.0,0.0,0.0,0.0,2,Sweden
+Total water made available for use,13069.0,13069.0,,13069.0,13069.0,1,Sweden
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,2,Sweden
+Leakage,121.54545454545455,125.0,8.201995322647244,107.0,130.0,11,Switzerland
+Public water supply,902.6133333333333,853.0,108.59653287458565,792.0,1067.5,15,Switzerland
+Public water supply for households,592.0066666666667,610.6,65.05980179437839,510.0,713.0,15,Switzerland
+Public water supply for industry and construction,194.0,190.15,19.255994737570248,178.2,217.5,4,Switzerland
+Public water supply for services,93.625,91.1,6.307865460412628,89.3,103.0,4,Switzerland
+Total desalinated water. Non-freshwater,0.0,0.0,0.0,0.0,0.0,2,Switzerland
+Total losses during transport,121.54545454545455,125.0,8.201995322647244,107.0,130.0,11,Switzerland
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",505.0,505.0,0.0,505.0,505.0,4,Türkiye
+Abstractions for aquaculture. Non-freshwater,505.0,505.0,0.0,505.0,505.0,4,Türkiye
+Abstractions for hydro-electricity,152562.66666666666,155993.0,32604.3812495601,94142.0,192173.0,6,Türkiye
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,4,Türkiye
+Abstractions for manufacturing. Non-freshwater,667.1,667.1,38.74945160902277,639.7,694.5,2,Türkiye
+Abstractions for manufacturing. Reused water,352.0,352.0,,352.0,352.0,1,Türkiye
+Abstractions for services - desalinated water,0.0,0.0,0.0,0.0,0.0,4,Türkiye
+Abstractions from artificial reservoirs ,1725.0,1725.0,304.05591591021545,1510.0,1940.0,2,Türkiye
+Electricity production (cooling). Non-freshwater,2170.55,2191.5,343.28357082738466,1735.2,2564.0,4,Türkiye
+Imported water,0.0,0.0,0.0,0.0,0.0,4,Türkiye
+Public water supply for basic metals,2.2,2.2,,2.2,2.2,1,Türkiye
+"Public water supply for chemicals, refined petroleum etc",1.2,1.2,,1.2,1.2,1,Türkiye
+Public water supply for cooling (electricity),0.85,0.85,1.2020815280171306,0.0,1.7,2,Türkiye
+Public water supply for electricity,0.55,0.05,1.03440804327886,0.0,2.1,4,Türkiye
+Public water supply for food processing industry,4.4,4.4,,4.4,4.4,1,Türkiye
+Public water supply for mining and quarrying,0.3,0.3,,0.3,0.3,1,Türkiye
+Public water supply for other manufacturing industries,6.1,6.1,,6.1,6.1,1,Türkiye
+Public water supply for paper products,0.5,0.5,,0.5,0.5,1,Türkiye
+Public water supply for textiles,6.4,6.4,,6.4,6.4,1,Türkiye
+Public water supply for total manufacturing,25.3,25.3,6.08111831820431,21.0,29.6,2,Türkiye
+Public water supply transport vehicles and equipment,0.2,0.2,,0.2,0.2,1,Türkiye
+Self- and other supply ,34824.666666666664,35757.7,2809.552833340802,31667.3,37049.0,3,Türkiye
+"Self- and other supply for agriculture, fishing and forestry",43206.04125,45891.215,8961.939487165291,29281.0,54272.9,8,Türkiye
+Self- and other supply for electricity production (cooling),2260.8,2260.8,112.57139956489873,2181.2,2340.4,2,Türkiye
+Self- and other supply for electricity production and distribution,2300.0,2300.0,122.04663043279837,2213.7,2386.3,2,Türkiye
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,9,Türkiye
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,9,Türkiye
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",0.0,0.0,0.0,0.0,0.0,6,United Kingdom
+Abstractions for aquaculture. Non-freshwater,0.0,0.0,0.0,0.0,0.0,6,United Kingdom
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,6,United Kingdom
+Abstractions for manufacturing. Non-freshwater,889.35,854.7,124.7010692282415,783.0,1065.0,4,United Kingdom
+Abstractions for services - non-freshwater,0.0,0.0,,0.0,0.0,1,United Kingdom
+Electricity production (cooling). Non-freshwater,7261.125,7066.75,602.2209415986792,6815.0,8096.0,4,United Kingdom
+Public water supply,5569.855555555555,4947.6,1214.5185652256523,3958.0,7315.3,9,United Kingdom
+"Public water supply for agriculture, forestry and fishing",120.0,120.0,,120.0,120.0,1,United Kingdom
+Public water supply for basic metals,19.0,19.0,,19.0,19.0,1,United Kingdom
+"Public water supply for chemicals, refined petroleum etc",166.0,166.0,,166.0,166.0,1,United Kingdom
+Public water supply for construction,9.0,9.0,,9.0,9.0,1,United Kingdom
+Public water supply for electricity,26.0,26.0,,26.0,26.0,1,United Kingdom
+Public water supply for food processing industry,46.0,46.0,,46.0,46.0,1,United Kingdom
+Public water supply for households,2902.0,2902.0,,2902.0,2902.0,1,United Kingdom
+Public water supply for industrial activities,335.0,335.0,,335.0,335.0,1,United Kingdom
+Public water supply for industry and construction,345.0,345.0,,345.0,345.0,1,United Kingdom
+Public water supply for mining and quarrying,37.0,37.0,,37.0,37.0,1,United Kingdom
+Public water supply for other manufacturing industries,199.0,199.0,,199.0,199.0,1,United Kingdom
+Public water supply for paper products,47.0,47.0,,47.0,47.0,1,United Kingdom
+Public water supply for services,601.0,601.0,,601.0,601.0,1,United Kingdom
+Public water supply for textiles,5.0,5.0,,5.0,5.0,1,United Kingdom
+Public water supply for total manufacturing,263.0,263.0,,263.0,263.0,1,United Kingdom
+Public water supply transport vehicles and equipment,1.0,1.0,,1.0,1.0,1,United Kingdom
+Total gross abstraction non-freshwater,8155.75,7992.5,580.474733874496,7654.0,8984.0,4,United Kingdom
+Water abstraction for public water supply. Desalinated water,9.6,9.6,4.8083261120685235,6.2,13.0,2,United Kingdom
+Total gross abstraction non-freshwater,84154.07250000001,84154.07250000001,205.1422838239338,84009.015,84299.13,2,United States
+Public water supply,1609.7027272727273,1584.03,152.3657769376646,1397.5,1828.68,11,Chile
+Public water supply for households,788.7856666666667,765.9449999999999,101.4088377396022,648.0,956.749,12,Chile
+Public water supply for industrial activities,251.39791666666667,250.9445,28.87541457697922,203.0,292.44,12,Chile
+Total desalinated water. Non-freshwater,26.535000000000004,26.34,1.6416750592002047,24.072,28.31,5,Chile
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",6.4,0.0,8.763560920082657,0.0,16.0,5,Estonia
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,10,Estonia
+Abstractions for irrigation. Reused water,0.0,0.0,0.0,0.0,0.0,9,Estonia
+Abstractions for manufacturing. Reused water,3.16,3.2,1.2218837915284742,1.3,4.3,5,Estonia
+Abstractions for services - non-freshwater,0.29728571428571426,0.0,0.7514330119369068,0.0,2.0,7,Estonia
+Electricity production (cooling). Non-freshwater,4.442222222222223,4.0,1.6643450496950578,2.0,8.0,9,Estonia
+Public water supply,56.28425,52.174,8.483108219952674,47.8,69.7,8,Estonia
+"Public water supply for agriculture, forestry and fishing",0.18016666666666667,0.175,0.06820679340554478,0.111,0.3,6,Estonia
+Public water supply for cooling (manufacturing),0.030166666666666665,0.0155,0.03985180882553096,0.0,0.1,6,Estonia
+Public water supply for electricity,0.08316666666666667,0.081,0.07333871192396733,0.007,0.2,6,Estonia
+Public water supply for industry and construction,7.3,7.3,,7.3,7.3,1,Estonia
+Public water supply for total manufacturing,8.048166666666667,7.905,0.9229778798360586,7.2,9.744,6,Estonia
+Self- and other supply ,1358.448,1609.3,473.38111592584676,747.172,1737.82,6,Estonia
+Self- and other supply - Construction,0.050499999999999996,0.050499999999999996,0.05161879502661797,0.014,0.087,2,Estonia
+Self- and other supply - Other manufacturing,1.745,1.745,0.056568542494923615,1.705,1.785,2,Estonia
+Self- and other supply - Services,1.458,1.458,0.02262741699796954,1.442,1.474,2,Estonia
+Self- and other supply - transport vehicles and equipment,0.0015,0.0015,0.0007071067811865475,0.001,0.002,2,Estonia
+"Self- and other supply for agriculture, fishing and forestry",4.607833333333333,4.615,0.3569024609983331,4.0,4.964,6,Estonia
+Self- and other supply for basic metals,0.0,0.0,0.0,0.0,0.0,2,Estonia
+"Self- and other supply for chemicals, refined petroleum etc",42.3845,42.3845,0.31183409050326166,42.164,42.605,2,Estonia
+Self- and other supply for electricity production (cooling),1208.7875000000001,1438.73,414.81758197923574,675.463,1527.9,6,Estonia
+Self- and other supply for electricity production and distribution,1216.3475,1446.295,414.1510080604658,683.695,1534.9,6,Estonia
+Self- and other supply for food processing industry,4.7170000000000005,4.7170000000000005,0.248901586977664,4.541,4.893,2,Estonia
+Self- and other supply for industry and contruction,1142.0315,1132.9450000000002,458.98435479037124,740.736,1561.5,4,Estonia
+Self- and other supply for manufacturing (cooling),23.933,25.4445,21.49699524739834,2.3,42.543,4,Estonia
+Self- and other supply for mining and quarrying.,3.0935,3.25,2.514234210782016,0.413,5.461,4,Estonia
+Self- and other supply for paper products,8.692499999999999,8.692499999999999,0.8662058069535211,8.08,9.305,2,Estonia
+Self- and other supply for textiles,0.038500000000000006,0.038500000000000006,0.00494974746830583,0.035,0.042,2,Estonia
+Self- and other supply for total manufacturing,34.2165,24.79,18.33402144375314,19.9,58.631,6,Estonia
+Total abstractions of reused water,3.716666666666667,3.7,2.8052926169415313,0.0,7.1,6,Estonia
+Total gross abstraction non-freshwater,7.638416666666667,4.5,7.519373831018515,2.0,25.0,12,Estonia
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,11,Estonia
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,11,Estonia
+Exported water,109.42066666666666,102.2945,37.753545659696485,31.147,191.0,12,Israel
+Imported water,0.0,0.0,0.0,0.0,0.0,6,Israel
+Public water supply,2059.820833333333,2021.1100000000001,192.65852978584257,1800.0,2391.0,12,Israel
+"Public water supply for agriculture, forestry and fishing",1146.6666666666667,1156.0,99.22915016477897,1016.0,1286.0,12,Israel
+Public water supply for basic metals,2.5566666666666666,2.0,1.3630969640246924,1.56,4.11,3,Israel
+"Public water supply for chemicals, refined petroleum etc",51.416666666666664,63.13,21.151246614167526,27.0,64.12,3,Israel
+Public water supply for construction,9.844999999999999,9.844999999999999,0.8414570696119918,9.25,10.44,2,Israel
+Public water supply for cooling (manufacturing),82.0,82.0,,82.0,82.0,1,Israel
+Public water supply for electricity,6.63,6.63,1.5414927829866734,5.54,7.72,2,Israel
+Public water supply for food processing industry,19.866666666666667,21.94,3.643203718340952,15.66,22.0,3,Israel
+Public water supply for households,789.4166666666666,724.5,159.45672444176495,588.0,1063.0,12,Israel
+Public water supply for industrial activities,122.55666666666667,120.0,9.32777840645885,105.0,138.0,9,Israel
+Public water supply for mining and quarrying,10.453333333333333,6.96,11.215727053264684,1.4,23.0,3,Israel
+Public water supply for other manufacturing industries,26.266666666666666,21.97,20.918609737105697,7.83,49.0,3,Israel
+Public water supply for paper products,3.763333333333333,4.0,0.46285346853332876,3.23,4.06,3,Israel
+Public water supply for services,180.92000000000002,180.92000000000002,23.362808050403533,164.4,197.44,2,Israel
+Public water supply for textiles,3.723333333333333,3.8,2.6858207932275255,1.0,6.37,3,Israel
+Public water supply for total manufacturing,108.23333333333333,107.44,1.7688791177842964,107.0,110.26,3,Israel
+Public water supply transport vehicles and equipment,2.0,2.0,,2.0,2.0,1,Israel
+Total abstractions of reused water,408.9166666666667,404.5,106.15807966795501,251.0,557.0,12,Israel
+Total desalinated water. Non-freshwater,289.1171818181818,277.0,238.1732119012624,12.1,609.0,11,Israel
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Abstractions for aquaculture. Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Abstractions for cooling (manufacturing). Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Abstractions for hydro-electricity,84178.24285714285,82970.0,8838.683588607739,73927.0,98422.0,7,Slovenia
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Abstractions for irrigation. Reused water,0.0,0.0,0.0,0.0,0.0,7,Slovenia
+Abstractions for manufacturing. Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Abstractions for manufacturing. Reused water,17.95,16.6,2.425386567126981,16.5,20.75,3,Slovenia
+Abstractions for services - non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Electricity production (cooling). Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Evaporation losses,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Leakage,47.9,47.5,1.7378147196982767,46.0,51.0,6,Slovenia
+Public water supply,119.81384615384614,117.25,12.474704096999345,106.5,146.6,13,Slovenia
+"Public water supply for agriculture, forestry and fishing",3.287142857142857,2.53,1.4839779230805543,1.8,5.8,7,Slovenia
+Public water supply for basic metals,0.8445454545454546,0.5,0.5850361294204597,0.4,2.2,11,Slovenia
+"Public water supply for chemicals, refined petroleum etc",1.9100000000000001,1.9,0.19188538245525644,1.7,2.2,11,Slovenia
+Public water supply for cooling (electricity),0.0,0.0,0.0,0.0,0.0,3,Slovenia
+Public water supply for cooling (manufacturing),0.0,0.0,0.0,0.0,0.0,3,Slovenia
+Public water supply for electricity,0.3933333333333333,0.21,0.27124711980037686,0.13,0.8,9,Slovenia
+Public water supply for food processing industry,4.116363636363636,3.72,1.0911945081173453,3.0,6.2,11,Slovenia
+Public water supply for households,84.40466666666666,85.0,3.964533600143486,78.5,92.1,15,Slovenia
+Public water supply for industry and construction,23.574545454545454,18.8,18.671884941610138,9.3,62.1,11,Slovenia
+Public water supply for mining and quarrying,0.3638461538461539,0.29,0.23067070546338203,0.1,0.8,13,Slovenia
+Public water supply for other manufacturing industries,3.3263636363636366,3.0,0.8949220382499551,2.5,5.6,11,Slovenia
+Public water supply for paper products,0.25,0.2,0.15943650773897425,0.1,0.6,11,Slovenia
+Public water supply for services,17.854285714285716,20.8,7.583796008910176,6.2,25.1,7,Slovenia
+Public water supply for textiles,0.29454545454545455,0.2,0.20848806375251494,0.1,0.8,11,Slovenia
+Public water supply for total manufacturing,13.062307692307693,10.97,5.199679723864656,8.7,24.5,13,Slovenia
+Public water supply transport vehicles and equipment,0.4318181818181818,0.4,0.07386720271110607,0.3,0.56,11,Slovenia
+Self- and other supply ,751.592,758.0,19.190031787362955,730.9,774.46,5,Slovenia
+Self- and other supply - Other manufacturing,4.623333333333334,4.6,0.24630604269214904,4.3,4.9,6,Slovenia
+Self- and other supply - transport vehicles and equipment,0.2816666666666667,0.30000000000000004,0.1757744767213564,0.06,0.5,6,Slovenia
+"Self- and other supply for agriculture, fishing and forestry",3.4259999999999997,3.6,0.42822891074751157,2.78,3.9,5,Slovenia
+Self- and other supply for basic metals,7.1883333333333335,7.300000000000001,0.9157383177888025,5.49,8.1,6,Slovenia
+"Self- and other supply for chemicals, refined petroleum etc",10.771666666666667,10.84,0.594656763744151,10.1,11.7,6,Slovenia
+Self- and other supply for electricity production (cooling),705.074,713.9,20.19509296834257,681.8,727.08,5,Slovenia
+Self- and other supply for electricity production and distribution,706.652,715.9,20.106295531499576,683.4,728.52,5,Slovenia
+Self- and other supply for food processing industry,2.441666666666667,2.405,0.204589018929821,2.2,2.7,6,Slovenia
+Self- and other supply for industry and contruction,748.1659999999999,755.22,19.32559649790919,727.3,771.21,5,Slovenia
+Self- and other supply for mining and quarrying.,0.914,0.8,0.17601136326953434,0.8,1.2,5,Slovenia
+Self- and other supply for paper products,15.333333333333334,15.55,1.559059545580818,12.5,17.0,6,Slovenia
+Self- and other supply for textiles,0.6583333333333333,0.6499999999999999,0.12906070922889998,0.49,0.8,6,Slovenia
+Self- and other supply for total manufacturing,41.29833333333333,41.655,3.0485564890069967,35.78,44.8,6,Slovenia
+Total abstractions of reused water,23.516666666666666,22.2,2.3676641090605184,22.1,26.25,3,Slovenia
+Total gross abstraction non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Total losses during transport,47.9,47.5,1.7378147196982767,46.0,51.0,6,Slovenia
+Total non-renewable groundwater,0.0,0.0,0.0,0.0,0.0,7,Slovenia
+Total water made available for use,897.1976666666666,905.0,29.011357885030677,865.083,921.51,3,Slovenia
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,11,Slovenia
+Abstractions for irrigation. Reused water,33.800000000000004,37.1,11.801271117977079,20.7,43.6,3,Korea
+Abstractions for manufacturing. Reused water,13.366666666666667,13.6,1.167618659209133,12.1,14.4,3,Korea
+Public water supply,7520.7125,7499.35,208.69863054859076,7110.0,7775.0,8,Korea
+"Public water supply for agriculture, forestry and fishing",11329.125,11096.5,1990.1542250000916,9032.0,15264.0,8,Korea
+Public water supply for electricity,171.0,171.0,,171.0,171.0,1,Korea
+Public water supply for households,4923.7,4859.0,415.1214146353918,4338.0,5580.0,10,Korea
+Public water supply for total manufacturing,2381.75,2341.5,266.48009842602295,1985.0,2749.0,8,Korea
+Total abstractions of reused water,1095.2666666666667,1118.1,147.58076884653136,937.6,1230.1,3,Korea
+Public water supply,370.276,322.15,95.71083389937777,288.13,593.0,15,Slovak Republic
+Exported water,0.0,0.0,0.0,0.0,0.0,7,Brazil
+Imported water,0.0,0.0,0.0,0.0,0.0,7,Brazil
+Public water supply,14535.107777777777,14519.1,1659.1812710375239,11804.5,16512.41,9,Brazil
+Total abstractions of reused water,0.0,0.0,0.0,0.0,0.0,7,Brazil
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,7,Brazil
+Total losses during transport,18425.5,18425.5,,18425.5,18425.5,1,Brazil
+Total water made available for use,47803.0,47803.0,,47803.0,47803.0,1,Brazil
+Total losses during transport,7578.642857142857,7579.5,663.0718266166552,6661.0,8567.0,14,Russia
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",0.0,0.0,0.0,0.0,0.0,11,Lithuania
+Abstractions for aquaculture. Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Lithuania
+Abstractions for cooling (manufacturing). Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Lithuania
+Abstractions for hydro-electricity,2361.5024545454544,2419.331,486.51068044727714,1447.485,2977.017,11,Lithuania
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Lithuania
+Abstractions for irrigation. Reused water,0.0,0.0,0.0,0.0,0.0,10,Lithuania
+Abstractions for manufacturing. Non-freshwater,1.9385454545454543,1.94,0.7062075280873694,1.113,3.578,11,Lithuania
+Abstractions for manufacturing. Reused water,0.0,0.0,0.0,0.0,0.0,10,Lithuania
+Abstractions for services - non-freshwater,21.858818181818183,2.761,28.49862286082674,0.939,69.663,11,Lithuania
+Electricity production (cooling). Non-freshwater,0.01009090909090909,0.0,0.02392678225526594,0.0,0.074,11,Lithuania
+Evaporation losses,0.0,0.0,0.0,0.0,0.0,11,Lithuania
+Exported water,0.0,0.0,0.0,0.0,0.0,11,Lithuania
+Imported water,0.0,0.0,0.0,0.0,0.0,11,Lithuania
+Leakage,30.483727272727275,26.702,7.676790893217154,22.45,43.28,11,Lithuania
+Public water supply,101.77477777777777,100.57,5.047472035033421,96.44,110.359,9,Lithuania
+"Public water supply for agriculture, forestry and fishing",0.0999,0.082,0.061810552856647744,0.025,0.213,10,Lithuania
+Public water supply for basic metals,0.006444444444444444,0.0,0.012904564222699573,0.0,0.039,9,Lithuania
+"Public water supply for chemicals, refined petroleum etc",0.7316666666666667,0.786,0.3482463208707308,0.089,1.171,9,Lithuania
+Public water supply for construction,0.035333333333333335,0.027,0.02913760456866693,0.0,0.085,9,Lithuania
+Public water supply for cooling (electricity),0.0014444444444444444,0.0,0.004333333333333333,0.0,0.013,9,Lithuania
+Public water supply for cooling (manufacturing),0.6487999999999999,0.657,0.07184497198830271,0.547,0.736,5,Lithuania
+Public water supply for electricity,0.39144444444444443,0.162,0.4329743384749005,0.005,1.071,9,Lithuania
+Public water supply for food processing industry,6.458111111111111,6.373,0.8387658261464348,5.209,7.687,9,Lithuania
+Public water supply for households,66.7953,65.851,5.874829776257353,58.632,78.146,10,Lithuania
+Public water supply for industrial activities,11.313555555555556,9.25,4.018622870807582,8.23,19.446,9,Lithuania
+Public water supply for industry and construction,13.1597,12.584,3.3174082604748345,9.298,18.881,10,Lithuania
+Public water supply for mining and quarrying,0.0025,0.0,0.004301162633521313,0.0,0.011,10,Lithuania
+Public water supply for other manufacturing industries,0.9138888888888889,0.881,0.2155930451362268,0.672,1.268,9,Lithuania
+Public water supply for paper products,0.0911111111111111,0.064,0.08516079562281645,0.021,0.307,9,Lithuania
+Public water supply for services,24.702333333333332,24.763,2.959576532208619,21.009,29.769,9,Lithuania
+Public water supply for textiles,1.056888888888889,0.857,0.4375038412529782,0.783,1.935,9,Lithuania
+Public water supply for total manufacturing,9.337222222222222,9.084,1.166260667451511,7.89,11.022,9,Lithuania
+Public water supply transport vehicles and equipment,0.07922222222222222,0.0,0.12653436072642263,0.0,0.312,9,Lithuania
+Self- and other supply ,1018.0590000000001,293.705,1168.056068727439,181.931,3187.371,9,Lithuania
+Self- and other supply - Construction,0.29977777777777775,0.318,0.14806229920018277,0.015,0.473,9,Lithuania
+Self- and other supply - Households,18.176,18.3945,1.9674907877802115,15.313,21.042,10,Lithuania
+Self- and other supply - Other manufacturing,3.055,3.152,1.0098732593746604,1.171,4.317,9,Lithuania
+Self- and other supply - Services,28.247777777777777,10.922,29.046696084829414,2.258,70.473,9,Lithuania
+Self- and other supply - transport vehicles and equipment,0.11233333333333333,0.0,0.2311725545993728,0.0,0.649,9,Lithuania
+"Self- and other supply for agriculture, fishing and forestry",66.09611111111111,61.15,9.860297136045704,57.615,80.153,9,Lithuania
+Self- and other supply for basic metals,0.0,0.0,0.0,0.0,0.0,9,Lithuania
+"Self- and other supply for chemicals, refined petroleum etc",21.4661,21.509,1.6757582330263374,18.734,23.693,10,Lithuania
+Self- and other supply for electricity production (cooling),871.563,156.673,1173.9794266106198,11.589,3042.312,9,Lithuania
+Self- and other supply for electricity production and distribution,872.7454444444444,159.807,1173.6134899483636,12.578,3042.529,9,Lithuania
+Self- and other supply for food processing industry,4.369111111111112,4.806,0.9020444063964429,2.975,5.444,9,Lithuania
+Self- and other supply for industrial activities,859.2042857142858,193.42,1234.9494129836137,46.46,3076.07,7,Lithuania
+Self- and other supply for industry and contruction,928.3547777777777,223.517,1163.2035448702409,63.448,3084.105,9,Lithuania
+Self- and other supply for manufacturing (cooling),14.794,16.058,2.8084178820111507,11.333,17.265,5,Lithuania
+Self- and other supply for mining and quarrying.,0.9412222222222222,0.859,0.34831586878068654,0.601,1.594,9,Lithuania
+Self- and other supply for paper products,1.514,1.52,0.12107951932511132,1.319,1.701,9,Lithuania
+Self- and other supply for textiles,1.108888888888889,0.87,0.5737308699304153,0.732,2.501,9,Lithuania
+Self- and other supply for total manufacturing,31.788444444444444,32.392,2.285964354004186,26.62,35.004,9,Lithuania
+Total abstractions of reused water,0.0,0.0,0.0,0.0,0.0,10,Lithuania
+Total gross abstraction non-freshwater,23.813363636363636,4.321,28.74152195438762,2.119,72.133,11,Lithuania
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,11,Lithuania
+Total losses during transport,30.483727272727275,26.702,7.676790893217154,22.45,43.28,11,Lithuania
+Total water made available for use,1532.4971,1435.148,1203.7246312015097,332.725,3344.191,10,Lithuania
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,11,Lithuania
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",0.0,0.0,0.0,0.0,0.0,12,Latvia
+"Abstractions for agriculture, forestry, fishing. Reused water",0.0,0.0,,0.0,0.0,1,Latvia
+Abstractions for aquaculture. Non-freshwater,0.0,0.0,0.0,0.0,0.0,11,Latvia
+Abstractions for cooling (manufacturing). Non-freshwater,0.0,0.0,0.0,0.0,0.0,12,Latvia
+Abstractions for electricity production (cooling). Reused water,0.0,0.0,,0.0,0.0,1,Latvia
+Abstractions for irrigation. Non-freshwater,0.0,0.0,0.0,0.0,0.0,12,Latvia
+Abstractions for irrigation. Reused water,0.0,0.0,0.0,0.0,0.0,11,Latvia
+Abstractions for manufacturing cooling. Reused water,0.0,0.0,,0.0,0.0,1,Latvia
+Abstractions for manufacturing. Non-freshwater,0.0,0.0,0.0,0.0,0.0,12,Latvia
+Abstractions for manufacturing. Reused water,0.0,0.0,0.0,0.0,0.0,11,Latvia
+Abstractions for services - desalinated water,0.0,0.0,,0.0,0.0,1,Latvia
+Abstractions for services - non-freshwater,0.0,0.0,0.0,0.0,0.0,12,Latvia
+Abstractions for services - reused water,0.0,0.0,,0.0,0.0,1,Latvia
+Electricity production (cooling). Non-freshwater,0.0,0.0,0.0,0.0,0.0,12,Latvia
+Exported water,0.0,0.0,0.0,0.0,0.0,11,Latvia
+Imported water,0.0,0.0,0.0,0.0,0.0,12,Latvia
+Leakage,21.80825,16.312,17.179179142867312,5.097,70.0,12,Latvia
+Public water supply,107.70116666666667,91.015,78.9447093095522,37.757,352.3,12,Latvia
+"Public water supply for agriculture, forestry and fishing",1.1026666666666667,0.347,2.397974802101797,0.234,8.7,12,Latvia
+Public water supply for basic metals,0.0023636363636363633,0.0,0.003107176444063879,0.0,0.008,11,Latvia
+"Public water supply for chemicals, refined petroleum etc",0.0038181818181818182,0.0,0.00652408126586697,0.0,0.02,11,Latvia
+Public water supply for construction,0.026272727272727277,0.018,0.030456824880774783,0.0,0.091,11,Latvia
+Public water supply for cooling (electricity),9.090909090909092e-05,0.0,0.00030151134457776364,0.0,0.001,11,Latvia
+Public water supply for cooling (manufacturing),1.9050000000000002,0.047,3.3526820308523146,0.0,8.096,11,Latvia
+Public water supply for electricity,10.700583333333334,0.0515,36.750994933862515,0.0,127.4,12,Latvia
+Public water supply for food processing industry,0.21845454545454546,0.186,0.1578298854060052,0.011,0.505,11,Latvia
+Public water supply for households,82.72854545454545,84.665,17.42541171601771,36.873,99.607,11,Latvia
+Public water supply for industrial activities,1.121,1.0,0.6568857502556201,0.23,2.58,10,Latvia
+Public water supply for industry and construction,20.934416666666667,1.2095,68.14296731999748,0.272,237.3,12,Latvia
+Public water supply for mining and quarrying,0.035454545454545454,0.034,0.03555380046173302,0.0,0.111,11,Latvia
+Public water supply for other manufacturing industries,0.0,0.0,0.0,0.0,0.0,11,Latvia
+Public water supply for paper products,0.0014545454545454547,0.0,0.0020670576365276498,0.0,0.005,11,Latvia
+Public water supply for services,10.110000000000001,0.9975,30.35219897680023,0.113,106.4,12,Latvia
+Public water supply for textiles,0.44790909090909087,0.287,0.5044070686549614,0.0,1.839,11,Latvia
+Public water supply for total manufacturing,7.821833333333334,0.882,24.279752473028125,0.188,84.9,12,Latvia
+Public water supply transport vehicles and equipment,0.015363636363636364,0.0,0.02203303305163739,0.0,0.057,11,Latvia
+Self- and other supply ,91.12400000000001,85.443,19.130016549914433,59.493,123.939,11,Latvia
+Self- and other supply - Construction,0.27081818181818185,0.009,0.684766210933603,0.003,2.291,11,Latvia
+Self- and other supply - Households,9.630363636363636,8.087,3.9473730574326846,4.64,16.219,11,Latvia
+Self- and other supply - Other manufacturing,0.0,0.0,0.0,0.0,0.0,11,Latvia
+Self- and other supply - Services,2.5184545454545453,1.888,1.1975481087318671,1.462,5.349,11,Latvia
+Self- and other supply - transport vehicles and equipment,0.24945454545454543,0.117,0.27186223115260555,0.0,0.711,11,Latvia
+"Self- and other supply for agriculture, fishing and forestry",46.995363636363635,50.131,10.194695917708652,23.091,57.132,11,Latvia
+Self- and other supply for basic metals,1.6177272727272725,1.651,1.5185703204599446,0.002,4.189,11,Latvia
+"Self- and other supply for chemicals, refined petroleum etc",2.0074545454545456,1.883,0.588893430704803,1.301,3.409,11,Latvia
+Self- and other supply for electricity production (cooling),35.463,14.111,41.212277129515655,0.0,103.774,11,Latvia
+Self- and other supply for electricity production and distribution,7.475545454545455,2.791,8.741742416287915,1.46,22.937,11,Latvia
+Self- and other supply for food processing industry,8.478181818181818,7.362,3.15271387278268,5.255,13.504,11,Latvia
+Self- and other supply for industrial activities,32.646,26.475,13.645596929249946,19.3,54.29,10,Latvia
+Self- and other supply for industry and contruction,32.83927272727273,26.731,12.881878900928305,19.899,55.1,11,Latvia
+Self- and other supply for manufacturing (cooling),26.823272727272727,21.117,10.730944339534238,16.414,45.024,11,Latvia
+Self- and other supply for mining and quarrying.,5.179090909090909,5.932,3.4318538271478127,0.78,11.165,11,Latvia
+Self- and other supply for paper products,0.2843636363636364,0.373,0.23676455508680888,0.0,0.549,11,Latvia
+Self- and other supply for textiles,0.31672727272727275,0.035,0.3770909945647312,0.021,0.972,11,Latvia
+Self- and other supply for total manufacturing,19.054363636363636,18.328,6.874681189302195,9.7,30.304,11,Latvia
+Total abstractions of reused water,0.0,0.0,0.0,0.0,0.0,11,Latvia
+Total desalinated water. Non-freshwater,0.0,0.0,0.0,0.0,0.0,8,Latvia
+Total gross abstraction non-freshwater,0.0,0.0,0.0,0.0,0.0,12,Latvia
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,12,Latvia
+Total losses during transport,21.80825,16.312,17.179179142867312,5.097,70.0,12,Latvia
+Total water made available for use,0.0,0.0,0.0,0.0,0.0,9,Latvia
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,12,Latvia
+Abstractions for hydro-electricity,29458.180333333334,30087.3,1158.565160077901,28121.158,30166.083,3,Costa Rica
+Leakage,944.1619999999999,872.78,157.38228531826573,835.12,1124.586,3,Costa Rica
+Public water supply,318.43066666666664,332.192,30.175155431800768,283.828,339.272,3,Costa Rica
+Public water supply for households,272.8496666666667,290.303,30.410371213343208,237.735,290.511,3,Costa Rica
+Public water supply for services,45.58133333333333,46.094,3.670947606999227,41.681,48.969,3,Costa Rica
+Self- and other supply ,1851.28,1924.327,186.3590869772655,1639.463,1990.05,3,Costa Rica
+Self- and other supply - Households,1.3793333333333333,1.325,0.1481699474702388,1.266,1.547,3,Costa Rica
+Self- and other supply - Services,49.47666666666667,55.08,9.99983933204262,36.16,56.85,6,Costa Rica
+"Self- and other supply for agriculture, fishing and forestry",1556.1773333333333,1637.682,157.8016040518389,1374.29,1656.56,3,Costa Rica
+Self- and other supply for industrial activities,234.06199999999998,229.159,9.792923822842706,227.689,245.338,3,Costa Rica
+Self- and other supply for total manufacturing,234.06199999999998,229.159,9.792923822842706,227.689,245.338,3,Costa Rica
+Total losses during transport,944.1619999999999,872.78,157.38228531826573,835.12,1124.586,3,Costa Rica
+Total water made available for use,3139.2353333333335,3138.13,307.04249217711435,2832.747,3446.829,3,Costa Rica
+Public water supply,3047.8412,3069.442,132.53377564115527,2826.401,3160.292,5,Colombia
+Public water supply for basic metals,3.63,3.7,1.078818798501398,2.53,4.84,5,Colombia
+"Public water supply for chemicals, refined petroleum etc",17.214000000000002,16.42,2.142213808190023,14.93,19.84,5,Colombia
+Public water supply for construction,6.4258,5.958,0.7938877124631671,5.707,7.531,5,Colombia
+Public water supply for food processing industry,39.092,40.89,3.631366134115372,32.75,41.38,5,Colombia
+Public water supply for households,2351.7142,2352.255,111.59351859180715,2184.295,2489.702,5,Colombia
+Public water supply for industrial activities,106.11600000000001,105.46,5.088280013914328,100.683,111.755,5,Colombia
+Public water supply for mining and quarrying,15.080000000000002,15.788,3.267294369964237,10.04,18.284,5,Colombia
+Public water supply for other manufacturing industries,10.152,10.15,0.4261689805699141,9.49,10.65,5,Colombia
+Public water supply for paper products,2.002,1.64,0.6689693565478166,1.46,2.91,5,Colombia
+Public water supply for services,590.0106,546.4,69.7117339606469,539.48,696.282,5,Colombia
+Public water supply for textiles,11.926,12.3,0.952276220431866,10.31,12.67,5,Colombia
+Public water supply for total manufacturing,84.606,86.02,4.66583111567489,76.44,88.12,5,Colombia
+Public water supply transport vehicles and equipment,0.5900000000000001,0.54,0.0946044396421225,0.49,0.71,5,Colombia
+Self- and other supply ,151993.70760000002,139897.969,24576.94901007396,131036.035,181108.208,5,Colombia
+Self- and other supply - Other manufacturing,14.030000000000001,14.61,1.9798358517816574,10.79,15.6,5,Colombia
+Self- and other supply - transport vehicles and equipment,0.198,0.23,0.06260990336999411,0.13,0.25,5,Colombia
+"Self- and other supply for agriculture, fishing and forestry",81926.267,82356.332,11868.474580632475,66028.255,95882.672,5,Colombia
+Self- and other supply for basic metals,10.416,9.32,3.100609617478472,7.89,15.25,5,Colombia
+"Self- and other supply for chemicals, refined petroleum etc",51.688,52.85,5.331896473113485,42.51,55.63,5,Colombia
+Self- and other supply for electricity production and distribution,69595.962,65345.202,15102.611340012181,55424.872,90419.232,5,Colombia
+Self- and other supply for food processing industry,117.252,116.23,8.576754630977845,108.81,131.17,5,Colombia
+Self- and other supply for industrial activities,70067.4406,65853.66,15073.209477772174,55923.257,90856.91,5,Colombia
+Self- and other supply for mining and quarrying.,197.7498,211.468,33.92468147529169,160.842,227.706,5,Colombia
+Self- and other supply for paper products,60.322,60.63,1.3942632463060916,58.42,62.17,5,Colombia
+Self- and other supply for textiles,19.824,21.45,6.25810514453057,12.26,26.19,5,Colombia
+Self- and other supply for total manufacturing,273.73,270.68,4.934131129185771,270.15,281.43,5,Colombia
+Public water supply,2400.7115,2332.9629999999997,237.53376079131704,2194.52,2742.4,4,Indonesia
+Public water supply,545.6857142857143,560.45,51.47659448933837,444.4,608.8,14,Armenia
+Total losses during transport,765.9214285714286,740.1500000000001,152.0298157931854,467.0,1053.0,14,Armenia
+Exported water,0.0,0.0,0.0,0.0,0.0,12,Azerbaijan
+Imported water,0.0,0.0,0.0,0.0,0.0,12,Azerbaijan
+Public water supply,670.8509,669.25,36.70628401074914,600.4,718.4,10,Azerbaijan
+Total abstractions of reused water,194.71428571428572,0.0,496.1571445499017,0.0,1451.0,14,Azerbaijan
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,12,Azerbaijan
+Total losses during transport,3695.25,3732.5,260.79986231173154,3216.0,4280.0,12,Azerbaijan
+Exported water,0.0,0.0,0.0,0.0,0.0,14,Belarus
+Imported water,0.0,0.0,0.0,0.0,0.0,14,Belarus
+Public water supply,679.4363636363637,622.5,138.2902836263436,535.4,888.6,11,Belarus
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,14,Belarus
+Total losses during transport,186.49166666666667,179.25,35.869395877350115,133.2,235.0,12,Belarus
+"Abstractions for agriculture, forestry, fishing. Non-freshwater",0.015384615384615385,0.0,0.055470019622522924,0.0,0.2,13,Bulgaria
+Abstractions for aquaculture. Non-freshwater,0.0,0.0,0.0,0.0,0.0,10,Bulgaria
+Abstractions for cooling (manufacturing). Non-freshwater,0.08571428571428572,0.05,0.09732691032046313,0.0,0.29,14,Bulgaria
+Abstractions for hydro-electricity,12805.165454545455,11839.53,6717.017859342586,4098.44,26923.48,11,Bulgaria
+Abstractions for irrigation. Non-freshwater,0.016666666666666666,0.0,0.05773502691896259,0.0,0.2,12,Bulgaria
+Abstractions for irrigation. Reused water,0.0,0.0,0.0,0.0,0.0,9,Bulgaria
+Abstractions for manufacturing. Non-freshwater,0.3057142857142857,0.345,0.15969751627153347,0.0,0.5,14,Bulgaria
+Abstractions for manufacturing. Reused water,2.0422222222222226,0.14,3.352405023926024,0.0,7.96,9,Bulgaria
+Abstractions for services - desalinated water,0.0,0.0,,0.0,0.0,1,Bulgaria
+Abstractions for services - non-freshwater,0.05833333333333334,0.04,0.06873312465065462,0.0,0.2,12,Bulgaria
+Abstractions from artificial reservoirs ,2212.1,2353.005,324.9567133908418,1503.96,2544.49,10,Bulgaria
+Electricity production (cooling). Non-freshwater,201.73142857142858,160.9,214.96591135330283,0.0,558.0,14,Bulgaria
+Evaporation losses,28.701,27.445,9.686532976824635,13.91,44.01,10,Bulgaria
+Exported water,0.0,0.0,0.0,0.0,0.0,10,Bulgaria
+Imported water,0.0,0.0,0.0,0.0,0.0,11,Bulgaria
+Leakage,987.702,1012.72,218.04277892193545,616.34,1320.73,10,Bulgaria
+Public water supply,446.96,397.45,114.34082116468898,370.26,782.5,14,Bulgaria
+"Public water supply for agriculture, forestry and fishing",5.045,3.06,5.568369116301883,1.57,23.1,14,Bulgaria
+Public water supply for basic metals,5.512727272727273,5.7,2.9815535913650484,2.02,10.09,11,Bulgaria
+"Public water supply for chemicals, refined petroleum etc",5.013636363636364,3.38,5.03161062231026,1.82,19.4,11,Bulgaria
+Public water supply for construction,1.8042857142857145,1.48,1.2116277308817913,0.54,5.2,14,Bulgaria
+Public water supply for cooling (electricity),0.39299999999999996,0.0,0.8317992546281825,0.0,2.17,10,Bulgaria
+Public water supply for cooling (manufacturing),6.305,6.105,2.4849558457959677,3.34,10.91,10,Bulgaria
+Public water supply for electricity,4.031428571428571,3.355,3.390887918985362,1.09,14.8,14,Bulgaria
+Public water supply for food processing industry,16.596363636363638,12.92,12.310513614571308,8.75,52.1,11,Bulgaria
+Public water supply for households,275.9407142857143,268.475,29.1729232902139,250.48,365.6,14,Bulgaria
+Public water supply for industry and construction,94.95071428571428,77.115,46.18976101396794,54.36,217.0,14,Bulgaria
+Public water supply for mining and quarrying,3.150714285714286,2.2,2.248997945361835,0.76,7.4,14,Bulgaria
+Public water supply for other manufacturing industries,15.991818181818182,14.34,8.375084260091738,9.77,40.5,11,Bulgaria
+Public water supply for paper products,0.6845454545454546,0.42,1.0034775895491004,0.27,3.7,11,Bulgaria
+Public water supply for services,71.02428571428571,56.870000000000005,36.807984232999004,43.03,176.8,14,Bulgaria
+Public water supply for textiles,2.861818181818182,1.41,3.5190845917136406,0.85,12.9,11,Bulgaria
+Public water supply for total manufacturing,66.68071428571429,47.36,49.973747025395646,24.7,189.7,14,Bulgaria
+Public water supply transport vehicles and equipment,1.8109090909090908,1.37,1.7013668302012621,0.57,6.6,11,Bulgaria
+Self- and other supply ,4579.521,4528.325,395.4599583171754,4089.5,5411.85,10,Bulgaria
+Self- and other supply - Construction,1.9170000000000003,1.675,1.0288078321803131,0.49,3.79,10,Bulgaria
+Self- and other supply - Households,0.054000000000000006,0.005,0.07947046970765655,0.0,0.19,10,Bulgaria
+Self- and other supply - Other manufacturing,30.633,25.57,15.14799807088566,16.16,58.51,10,Bulgaria
+Self- and other supply - Services,23.506,19.935000000000002,7.872941282928792,15.44,36.62,10,Bulgaria
+Self- and other supply - transport vehicles and equipment,0.5980000000000001,0.49,0.42642701602970695,0.15,1.21,10,Bulgaria
+"Self- and other supply for agriculture, fishing and forestry",271.644,298.325,74.59037072199364,150.03,356.08,10,Bulgaria
+Self- and other supply for basic metals,42.400999999999996,34.425,27.732869166788753,15.65,77.61,10,Bulgaria
+"Self- and other supply for chemicals, refined petroleum etc",94.75,88.625,29.106146735316543,70.36,174.08,10,Bulgaria
+Self- and other supply for electricity production (cooling),3740.2879999999996,3686.27,358.24359886659374,3169.68,4442.91,10,Bulgaria
+Self- and other supply for electricity production and distribution,3976.582,3902.29,395.6444297823212,3540.17,4787.77,10,Bulgaria
+Self- and other supply for food processing industry,33.989999999999995,28.055,11.617081293413497,22.33,58.39,10,Bulgaria
+Self- and other supply for industry and contruction,4284.3150000000005,4220.52,451.32286500045865,3759.83,5213.09,10,Bulgaria
+Self- and other supply for manufacturing (cooling),120.94300000000001,97.27000000000001,39.86049702817732,85.33,177.15,10,Bulgaria
+Self- and other supply for mining and quarrying.,29.55,28.634999999999998,6.139084260340101,19.0,39.64,10,Bulgaria
+Self- and other supply for paper products,30.418,28.02,11.08688895347413,15.46,53.86,10,Bulgaria
+Self- and other supply for textiles,5.659000000000001,4.715,1.805414387643765,3.57,8.28,10,Bulgaria
+Self- and other supply for total manufacturing,238.448,207.27,62.828849495187235,169.3,334.13,10,Bulgaria
+Total abstractions of reused water,5.262222222222222,6.35,3.7676477335924656,0.0,9.54,9,Bulgaria
+Total gross abstraction non-freshwater,204.56071428571428,161.14499999999998,216.94139756250678,0.35,558.9,14,Bulgaria
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,11,Bulgaria
+Total losses during transport,1016.403,1031.41,214.08035843527963,658.38,1354.39,10,Bulgaria
+Water abstraction for public water supply. Desalinated water,0.0,0.0,0.0,0.0,0.0,11,Bulgaria
+Total abstractions of reused water,2022.6666666666667,2227.0,369.6137623700359,1596.0,2245.0,3,China (People's Republic of)
+Abstractions for cooling (manufacturing). Non-freshwater,32.749,33.25,2.9673274544987778,27.81,36.5,10,Croatia
+Abstractions for hydro-electricity,43152.725,43399.725000000006,6931.931266874331,34908.72,51493.52,6,Croatia
+Abstractions for manufacturing. Non-freshwater,36.7075,33.55,12.445987396455427,27.81,75.0,12,Croatia
+Abstractions from artificial reservoirs ,35585.19166666667,36882.850000000006,6616.512671217116,24602.97,42311.93,6,Croatia
+Electricity production (cooling). Non-freshwater,274.6433333333334,269.28,38.34967804376727,228.0,342.8,12,Croatia
+Evaporation losses,0.1,0.1,0.0,0.1,0.1,10,Croatia
+Leakage,203.574,204.05,3.797710421351854,197.49,209.96,10,Croatia
+Public water supply,332.2853846153846,283.16,105.30447787371824,250.65,531.0,13,Croatia
+"Public water supply for agriculture, forestry and fishing",39.15384615384615,2.0,72.04841676938057,2.0,200.0,13,Croatia
+Public water supply for basic metals,0.333,0.35,0.04738729318662921,0.23,0.39,10,Croatia
+"Public water supply for chemicals, refined petroleum etc",1.513,1.53,0.10274564062122862,1.35,1.65,10,Croatia
+Public water supply for construction,14.706,15.195,3.5898783637703753,10.2,20.62,10,Croatia
+Public water supply for cooling (electricity),0.0,0.0,0.0,0.0,0.0,10,Croatia
+Public water supply for cooling (manufacturing),0.0,0.0,0.0,0.0,0.0,10,Croatia
+Public water supply for electricity,2.0,2.0,0.0,2.0,2.0,10,Croatia
+Public water supply for food processing industry,6.068,6.615,0.8644561553048508,4.67,6.73,10,Croatia
+Public water supply for households,180.23153846153843,181.4,5.8932812678985576,170.19,189.73,13,Croatia
+Public water supply for industry and construction,55.89692307692307,29.95,52.35782278141688,22.52,159.0,13,Croatia
+Public water supply for mining and quarrying,0.311,0.31,0.030349812373573447,0.24,0.35,10,Croatia
+Public water supply for other manufacturing industries,2.5949999999999998,2.75,0.2141261310536385,2.23,2.77,10,Croatia
+Public water supply for paper products,0.074,0.07,0.012649110640673512,0.05,0.09,10,Croatia
+Public water supply for services,57.00461538461538,67.47,17.184473425830564,26.0,70.7,13,Croatia
+Public water supply for textiles,0.858,0.915,0.1707369646887021,0.55,1.01,10,Croatia
+Public water supply for total manufacturing,11.751000000000001,12.195,1.1586625431457116,9.84,12.75,10,Croatia
+Public water supply transport vehicles and equipment,0.311,0.315,0.03034981237357343,0.27,0.38,10,Croatia
+Self- and other supply ,520.649,515.85,32.52786239859944,484.03,584.57,10,Croatia
+Self- and other supply - Other manufacturing,15.911000000000001,15.0,1.824259058114036,13.1,19.07,10,Croatia
+Self- and other supply - transport vehicles and equipment,0.395,0.4,0.03472111109333276,0.34,0.47,10,Croatia
+"Self- and other supply for agriculture, fishing and forestry",30.0,30.0,0.0,30.0,30.0,10,Croatia
+Self- and other supply for basic metals,1.569,1.5,0.2035490658839343,1.33,2.0,10,Croatia
+"Self- and other supply for chemicals, refined petroleum etc",53.519000000000005,53.57,4.564061178867395,48.1,62.39,10,Croatia
+Self- and other supply for electricity production (cooling),386.952,381.775,34.885402805312246,349.5,452.8,10,Croatia
+Self- and other supply for electricity production and distribution,386.952,381.775,34.885402805312246,349.5,452.8,10,Croatia
+Self- and other supply for food processing industry,22.771,25.0,3.3803400552146963,17.84,26.5,10,Croatia
+Self- and other supply for industry and contruction,490.649,485.85,32.527862398599474,454.03,554.57,10,Croatia
+Self- and other supply for manufacturing (cooling),74.68199999999999,75.78999999999999,3.4112193974849756,69.6,78.87,10,Croatia
+Self- and other supply for mining and quarrying.,3.55,3.4400000000000004,0.2684523545560119,3.3,4.07,10,Croatia
+Self- and other supply for paper products,4.362,4.125,0.6375090413302215,3.9,5.9,10,Croatia
+Self- and other supply for textiles,1.6190000000000002,1.5550000000000002,0.21620206597841138,1.3,2.04,10,Croatia
+Self- and other supply for total manufacturing,100.146,100.39,3.7093371675034104,95.4,106.6,10,Croatia
+Total gross abstraction non-freshwater,307.52,301.545,37.99594802958162,269.1,379.3,10,Croatia
+Total losses during transport,203.675,204.15,3.79816988093535,197.59,210.06,10,Croatia
+Exported water,0.0,0.0,0.0,0.0,0.0,9,Georgia
+Imported water,0.0,0.0,0.0,0.0,0.0,9,Georgia
+Public water supply,649.5769230769231,568.3,184.19402430519725,422.0,931.5,13,Georgia
+Total abstractions of reused water,0.0,0.0,0.0,0.0,0.0,9,Georgia
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,9,Georgia
+Total losses during transport,644.0916666666667,655.0,165.79793538759122,439.0,992.1,12,Georgia
+Exported water,0.0,0.0,0.0,0.0,0.0,2,Moldova
+Imported water,0.0,0.0,0.0,0.0,0.0,2,Moldova
+Public water supply,121.57000000000001,121.1,8.426551950695945,111.5,133.3,10,Moldova
+Total abstractions of reused water,15.714285714285714,15.5,3.9696651947288646,9.0,21.0,14,Moldova
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,2,Moldova
+Total losses during transport,67.64285714285714,63.5,10.645382840658003,56.0,90.0,14,Moldova
+Public water supply,1330.3403636363637,1320.8,119.71639411231254,1139.086,1512.992,11,Peru
+Total gross abstraction. Desalinated water,688.0,688.0,,688.0,688.0,1,Peru
+Public water supply,1904.690909090909,1989.0,948.5649555560707,755.0,3080.0,11,Romania
+"Public water supply for agriculture, forestry and fishing",1.7,1.75,0.2449489742783178,1.4,1.9,4,Romania
+Public water supply for electricity,4.5,4.2,0.7393691004272946,4.0,5.6,4,Romania
+Public water supply for households,809.5,650.75,328.16989502390373,498.9,1291.0,10,Romania
+Public water supply for industry and construction,194.1,179.05,57.874289052508736,146.0,272.3,4,Romania
+Public water supply for services,91.675,90.95,17.9213792251973,70.5,114.3,4,Romania
+Exported water,0.0,0.0,0.0,0.0,0.0,4,Saudi Arabia
+Imported water,0.0,0.0,0.0,0.0,0.0,4,Saudi Arabia
+Public water supply,2903.25,2878.5,430.5085171437766,2423.0,3433.0,4,Saudi Arabia
+Total abstractions of reused water,240.4,229.0,46.98723230836223,183.0,311.0,5,Saudi Arabia
+Total gross abstraction. Desalinated water,2039.0,2004.0,522.3669208516175,1476.0,2900.0,6,Saudi Arabia
+Total losses during transport,343.125,345.6875,31.11353537181742,302.875,378.25,4,Saudi Arabia
+Exported water,287.0,287.0,,287.0,287.0,1,South Africa
+Imported water,491.0,491.0,,491.0,491.0,1,South Africa
+Total gross abstraction. Desalinated water,37.11411111111111,33.836,28.336867520266086,0.237,78.8,9,South Africa
+Exported water,0.0,0.0,0.0,0.0,0.0,8,Ukraine
+Imported water,0.0,0.0,0.0,0.0,0.0,8,Ukraine
+Public water supply,5960.555555555556,5628.0,1569.1733581022138,4031.0,8615.0,9,Ukraine
+Total abstractions of reused water,963.2108571428571,878.55,347.23638836408225,612.9,1912.0,14,Ukraine
+Total gross abstraction. Desalinated water,0.0,0.0,0.0,0.0,0.0,8,Ukraine
+Total losses during transport,1764.1474999999998,1954.5,485.1686851488238,847.065,2342.0,14,Ukraine
